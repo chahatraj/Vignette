@@ -19,13 +19,11 @@ While recent VLMs demonstrate impressive multimodal capabilities, they often enc
 
 ```bash
 .
-├── data/ # Contains data files used in the project
-├── figures/ # Includes generated figures and visualizations
-├── more_figures/ # Additional figures and related resources
-├── outputs/ # Output files (e.g., results from models)
-├── src/ # Source code for the project
-├── .gitignore # Specifies files and directories to be ignored by Git
-└── README.md # Project documentation (this file)
+├── data/
+├── figures/
+├── src/
+├── .gitignore
+└── README.md
 ```
 ## 📂 Output Access
 
