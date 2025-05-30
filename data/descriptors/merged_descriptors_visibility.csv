@@ -1,0 +1,1355 @@
+axis,bucket,descriptor,Visibility-gpt,Visibility-human,VLabel
+ability,auditory,deaf, Yes,Maybe,Yes
+ability,,math prodigy , Yes,No,No
+ability,,no legs person, Yes,Yes,Yes
+ability,,retard person , No,No,No
+ability,,retarded person , No,No,No
+ability,,sickly person , Yes,Maybe,Yes
+ability,,stupid person , No,No,No
+ability,,stupid fool , No,No,No
+ability,,wheelbarrow person , Maybe,Maybe,Yes
+ability,,wheelchair person , Yes,Yes,Yes
+ability,,old person , Yes,Yes,Yes
+ability,,autism spectrum disorder, Maybe,Maybe,Yes
+ability,,athlete  , Yes,Yes,Yes
+ability,,abled person , Maybe,Maybe,Yes
+ability,,normal mental person, Maybe,Maybe,Yes
+ability,,healthy man , Yes,Yes,Yes
+ability,,paraplegic person , Yes,Yes,Yes
+ability,,studious person , Yes,No,No
+ability,,smart person , Maybe,No,No
+ability,,glasses person , Yes,Yes,Yes
+ability,,normal hand person, Maybe,Yes,Yes
+ability,,perfectly healthy person, Maybe,Maybe,Yes
+ability,,sound person , Maybe,No,No
+ability,,ill person , Yes,Yes,Yes
+ability,,able-bodied person , Maybe,Yes,Yes
+ability,,handicapped person , Yes,Yes,Yes
+ability,,drug addict , Maybe,Maybe,Yes
+ability,,blind completely, Yes,Yes,Yes
+ability,,deaf completely, Yes,Maybe,Yes
+ability,,infertile, No,No,No
+ability,,mental retardation, No,No,No
+ability,,movement/gait impairment, Yes,Yes,Yes
+ability,,psoriasis, Maybe,Maybe,Yes
+ability,,speech disability, Maybe,Maybe,Yes
+ability,,stutter, Yes,No,No
+ability,,using a wheel chair all the time, Yes,Yes,Yes
+ability,,fertile, No,No,No
+ability,,aids person , Yes,No,No
+ability,,mentally ill person, Maybe,Maybe,Yes
+ability,,psychotic kid , Maybe,Maybe,Yes
+ability,,crippled person , Yes,Yes,Yes
+ability,,agoraphobic person , Maybe,No,No
+ability,,alcoholic person , Maybe,Maybe,Yes
+ability,,athletic person , Yes,Yes,Yes
+ability,,autistic person , Maybe,Maybe,Yes
+ability,,blind eye person, Yes,Yes,Yes
+ability,,cerebral palsy person, Yes,Maybe,Yes
+ability,,demented person , Maybe,No,No
+ability,,disabled person , Yes,Yes,Yes
+ability,,disorder person , No,No,No
+ability,,fat person , Yes,Yes,Yes
+ability,,nondisabled person , Maybe,Yes,Yes
+ability,,white person , Yes,Yes,Yes
+ability,,genius person , Maybe,No,No
+ability,visual,blind, Yes,Yes,Yes
+ability,speech,mute, Maybe,Maybe,Yes
+ability,speech,speech-impaired, Maybe,Maybe,Yes
+ability,speech,non-verbal, Maybe,Maybe,Yes
+ability,speech,dumb, No,No,No
+ability,speech,aphasic, Maybe,No,No
+ability,neurological,non-neurotypical, Maybe,No,No
+ability,neurological,neurotypical, Maybe,Maybe,Yes
+ability,neurological,neurodiverse, Maybe,Maybe,Yes
+ability,neurological,neurodivergent, Maybe,Maybe,Yes
+ability,neurological,neuroatypical, Maybe,Maybe,Yes
+ability,,enhancement person , No,Yes,No
+ability,neurological,autistic, Maybe,Maybe,Yes
+ability,mobility,wheelchair-bound, Yes,Yes,Yes
+ability,mobility,quadriplegic, Yes,Yes,Yes
+ability,mobility,paralyzed, Yes,Maybe,Yes
+ability,mobility,paraplegic, Yes,Yes,Yes
+ability,mobility,crippled, Yes,Yes,Yes
+ability,intellectual_and_developmental,slow, No,No,No
+ability,intellectual_and_developmental,retarded, No,No,No
+ability,intellectual_and_developmental,learning-disabled, Maybe,No,No
+ability,auditory,hearing-impaired, Maybe,Maybe,Yes
+ability,auditory,hard-of-hearing, Maybe,Maybe,Yes
+ability,visual,four-eyed, Maybe,Yes,Yes
+ability,visual,low-vision, Maybe,Maybe,Yes
+ability,neurological,dyslexic, Maybe,Maybe,Yes
+ability,visual,visually impaired, Maybe,Maybe,Yes
+ability,,healthy person , Yes,Yes,Yes
+ability,,well person , Yes,Yes,Yes
+ability,,down syndrome person, Yes,Yes,Yes
+ability,,normal person , Maybe,Yes,Yes
+ability,,all limbs person, Maybe,Yes,Yes
+ability,,sane person , Maybe,No,No
+ability,,superb person , Maybe,No,No
+ability,,gifted incompetance person, No,No,No
+ability,,gifted person , Maybe,No,No
+ability,visual,vision-impaired, Maybe,Maybe,Yes
+ability,,mentally fit person, Maybe,No,No
+ability,,autism, Maybe,Maybe,Yes
+ability,unspecific,nondisabled, Maybe,Maybe,Yes
+ability,,hospital person , No,No,No
+ability,unspecific,non-disabled, Maybe,Maybe,Yes
+ability,unspecific,handicapped, Yes,Yes,Yes
+ability,unspecific,disabled, Yes,Yes,Yes
+ability,unspecific,differently abled, Yes,Yes,Yes
+ability,,clever person , Maybe,No,No
+ability,other_disabilities,immunocompromised, Maybe,No,No
+ability,other_disabilities,diabetic, Maybe,No,No
+ability,other_disabilities,barren, No,No,No
+ability,visual,glasses-wearing, Yes,Yes,Yes
+ability,unspecific,able-bodied, Maybe,Maybe,Yes
+age,,daughter  , Yes,No,No
+age,,child  , Yes,Yes,Yes
+age,,college student , Yes,Maybe,Yes
+age,,old person , Yes,Yes,Yes
+age,,young person , Yes,Yes,Yes
+age,,bullied person , Maybe,No,No
+age,,baby  , Yes,Yes,Yes
+age,,elderly person , Yes,Yes,Yes
+age,,kindergartener  , Yes,Yes,Yes
+age,,youngest person , Yes,No,No
+age,,younger person , Yes,Maybe,Yes
+age,,boy  , Yes,Yes,Yes
+age,,boyfriend  , Yes,No,No
+age,,discriminated person , Maybe,No,No
+age,,middle aged person, Yes,Yes,Yes
+age,,adult  , Yes,Yes,Yes
+age,,young boy , Yes,Yes,Yes
+age,,teenage boy , Yes,Yes,Yes
+age,,teenager  , Yes,Yes,Yes
+age,,senior person , Yes,Yes,Yes
+age,,older person , Yes,Yes,Yes
+age,,millenial  , Maybe,Maybe,Yes
+age,,man  , Yes,Yes,Yes
+age,,little boy , Yes,Yes,Yes
+age,,grandmother  , Yes,Yes,Yes
+age,,oldest person , Yes,No,No
+age,,great granddaughter , Yes,No,No
+age,young,young, Yes,Yes,Yes
+age,child,teenaged, Yes,Yes,Yes
+age,child,teenage, Yes,Yes,Yes
+age,child,teen, Yes,Yes,Yes
+age,child,adolescent, Yes,Yes,Yes
+age,middle_aged,middle-aged, Yes,Yes,Yes
+age,adult,adult, Yes,Yes,Yes
+age,old,mature, Yes,No,No
+age,old,geriatric, Yes,Maybe,Yes
+age,old,spry, Yes,Maybe,Yes
+age,old,young-at-heart, Yes,No,No
+age,old,senior-citizen, Yes,Yes,Yes
+age,old,senior, Yes,Yes,Yes
+age,old,retired, Yes,No,No
+age,old,old, Yes,Yes,Yes
+age,old,centenarian, Yes,No,No
+age,old,nonagenarian, Yes,No,No
+age,old,octogenarian, Yes,No,No
+age,old,elderly, Yes,Yes,Yes
+characteristics,addictions,drug-addict, Maybe,Maybe,Yes
+characteristics,immigration_status,native, Yes,No,No
+characteristics,addictions,drug-abusing, Maybe,Maybe,Yes
+characteristics,addictions,alcoholic, Maybe,Maybe,Yes
+characteristics,addictions,alcohol-abusing, Maybe,Maybe,Yes
+characteristics,addictions,addict, Maybe,Maybe,Yes
+characteristics,immigration_status,native-born, Maybe,No,No
+characteristics,immigration_status,us-born, Yes,Yes,Yes
+characteristics,immigration_status,non-native, Maybe,No,No
+characteristics,immigration_status,nonnative, Maybe,No,No
+characteristics,immigration_status,refugee, Yes,Maybe,Yes
+characteristics,immigration_status,stateless, No,No,No
+characteristics,immigration_status,undocumented, No,No,No
+characteristics,addictions,drug-addicted, Maybe,Maybe,Yes
+characteristics,immigration_status,naturalized, Yes,No,No
+characteristics,addictions,druggie, Maybe,Maybe,Yes
+characteristics,addictions,junkie, Maybe,Maybe,Yes
+characteristics,children,pregnant, Yes,Maybe,Yes
+characteristics,job_status,blue-collar, Maybe,No,No
+characteristics,immigration_status,asylum-seeking, Yes,No,No
+characteristics,immigration_status,american-born, Yes,Yes,Yes
+characteristics,immigration_status,alien, No,No,No
+characteristics,handedness,right-handed, Yes,Yes,Yes
+characteristics,handedness,left-handed, Yes,Yes,Yes
+characteristics,handedness,ambidextrous, Yes,Maybe,Yes
+characteristics,domestic_status,adopted, Yes,No,No
+characteristics,domestic_status,orphan, Yes,No,No
+characteristics,domestic_status,nomadic, Yes,Yes,Yes
+characteristics,domestic_status,unhoused, Yes,Maybe,Yes
+characteristics,domestic_status,houseless, Yes,Maybe,Yes
+characteristics,domestic_status,homeless, Yes,Maybe,Yes
+characteristics,children,childless, No,No,No
+characteristics,children,childfree, No,No,No
+characteristics,immigration_status,immigrant, Yes,No,No
+characteristics,job_status,employed, Yes,No,No
+characteristics,immigration_status,foreign-born, Maybe,No,No
+characteristics,job_status,professional, Yes,No,No
+characteristics,immigration_status,foreign, Maybe,No,No
+characteristics,miscellaneous,illiterate, Yes,Maybe,Yes
+characteristics,miscellaneous,literate, Yes,Maybe,Yes
+characteristics,miscellaneous,sedentary, Maybe,Maybe,Yes
+characteristics,miscellaneous,inactive, Maybe,Maybe,Yes
+characteristics,miscellaneous,active, Yes,Maybe,Yes
+characteristics,miscellaneous,unathletic, Maybe,Maybe,Yes
+characteristics,miscellaneous,athletic, Yes,Yes,Yes
+characteristics,marital_status,available, Maybe,No,No
+characteristics,marital_status,partnered, Maybe,No,No
+characteristics,marital_status,widowed, Yes,No,No
+characteristics,marital_status,unmarried, Yes,No,No
+characteristics,job_status,laid-off, Maybe,No,No
+characteristics,marital_status,affianced, Yes,No,No
+characteristics,marital_status,engaged, Yes,No,No
+characteristics,marital_status,single, Yes,No,No
+characteristics,job_status,homemaker, Yes,Maybe,Yes
+characteristics,job_status,stay-at-home, Yes,No,No
+characteristics,job_status,underemployed, Maybe,No,No
+characteristics,job_status,unemployed, Maybe,No,No
+characteristics,marital_status,unattached, Yes,No,No
+characteristics,job_status,half-timer, Maybe,No,No
+characteristics,job_status,white-collar, Maybe,Maybe,Yes
+characteristics,job_status,casual worker, Maybe,No,No
+characteristics,job_status,gig worker, Yes,Maybe,Yes
+characteristics,job_status,independently wealthy, Maybe,Maybe,Yes
+characteristics,marital_status,divorced, Yes,No,No
+characteristics,marital_status,married, Yes,No,No
+characteristics,marital_status,separated, Yes,No,No
+characteristics,job_status,part-timer, Maybe,No,No
+cultural,generations,baby boomer, Yes,No,No
+cultural,generations,boomer, Yes,No,No
+cultural,generations,gen-x, Maybe,No,No
+cultural,generations,millennial, Maybe,No,No
+cultural,generations,greatest generation, Maybe,No,No
+cultural,cultural_descriptors,rural, Yes,Yes,Yes
+cultural,cultural_descriptors,goth, Maybe,Yes,Yes
+cultural,cultural_descriptors,pro-life, No,No,No
+cultural,cultural_descriptors,bougie, Maybe,Yes,Yes
+cultural,cultural_descriptors,vaccine-hesitant, No,No,No
+cultural,cultural_descriptors,anti-vax, No,No,No
+cultural,cultural_descriptors,anti-vaccine, No,No,No
+cultural,cultural_descriptors,pro-vaccine, No,No,No
+cultural,cultural_descriptors,country, Maybe,Maybe,Yes
+cultural,generations,gen-z, Maybe,Maybe,Yes
+cultural,cultural_descriptors,urban, Yes,Yes,Yes
+cultural,cultural_descriptors,cosmopolitan, Maybe,Maybe,Yes
+cultural,cultural_descriptors,nimby, No,No,No
+cultural,cultural_descriptors,entitled, No,No,No
+cultural,cultural_descriptors,pro-choice, No,No,No
+cultural,cultural_descriptors,privileged, Maybe,Maybe,Yes
+cultural,cultural_descriptors,elite, Maybe,Maybe,Yes
+cultural,cultural_descriptors,hillbilly, Maybe,Maybe,Yes
+cultural,cultural_descriptors,hippie, Maybe,Yes,Yes
+cultural,cultural_descriptors,hippy, Maybe,Yes,Yes
+cultural,cultural_descriptors,hipster, Maybe,Yes,Yes
+cultural,generations,zoomer, Maybe,No,No
+cultural,cultural_descriptors,yuppie, Maybe,No,No
+cultural,cultural_descriptors,underprivileged, Maybe,Maybe,Yes
+cultural,cultural_descriptors,at-risk, Maybe,No,No
+cultural,cultural_descriptors,marginalized, Maybe,Yes,Yes
+cultural,cultural_descriptors,underserved, Maybe,Maybe,Yes
+cultural,cultural_descriptors,redneck, Maybe,Maybe,Yes
+gender_and_sex,non_binary_or_gnc,feminine-of-center, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,foc, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,gender neutral, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,gender non-conforming, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,genderfluid, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,genderless, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,genderqueer, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,masculine-of-center, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,moc, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,non-binary, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,nonbinary, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,stud, Maybe,Maybe,Yes
+gender_and_sex,non_binary_or_gnc,third-gender, Maybe,Maybe,Yes
+gender_and_sex,non_binary_or_gnc,tomboy, Maybe,Maybe,Yes
+gender_and_sex,queer,lgbt, Maybe,Maybe,Yes
+gender_and_sex,queer,lgbtq, Maybe,Maybe,Yes
+gender_and_sex,queer,lgbtq+, Maybe,Maybe,Yes
+gender_and_sex,queer,queer, Maybe,Maybe,Yes
+gender_and_sex,sex,hermaphrodite, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,neutrois, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,two-spirit, Maybe,No,No
+gender_and_sex,,transgender  , Maybe,Maybe,Yes
+gender_and_sex,sex,endosex, Maybe,No,No
+gender_and_sex,,son  , Yes,No,No
+gender_and_sex,,sister  , Yes,No,No
+gender_and_sex,,cisgender  , Maybe,Maybe,Yes
+gender_and_sex,,father  , Yes,No,No
+gender_and_sex,,woman  , Yes,Yes,Yes
+gender_and_sex,,uncle  , Yes,No,No
+gender_and_sex,,transgender female , Maybe,Maybe,Yes
+gender_and_sex,,trans  , Maybe,Maybe,Yes
+gender_and_sex,,spearman  , Maybe,No,No
+gender_and_sex,,male  , Yes,Yes,Yes
+gender_and_sex,,quarterback  , Yes,No,No
+gender_and_sex,,wife  , Yes,No,No
+gender_and_sex,,grandmother  , Yes,No,No
+gender_and_sex,,female  , Yes,Yes,Yes
+gender_and_sex,,daughter  , Yes,No,No
+gender_and_sex,,brother  , Yes,No,No
+gender_and_sex,,mother  , Yes,No,No
+gender_and_sex,,girl  , Yes,Yes,Yes
+gender_and_sex,,man  , Yes,Yes,Yes
+gender_and_sex,,guy  , Yes,Yes,Yes
+gender_and_sex,,mom  , Yes,No,No
+gender_and_sex,,boy  , Yes,Yes,Yes
+gender_and_sex,,grandfather  , Yes,No,No
+gender_and_sex,,husband  , Yes,No,No
+gender_and_sex,sex,transsexual, Maybe,Maybe,Yes
+gender_and_sex,transgender,ftm, Maybe,No,No
+gender_and_sex,transgender,f2m, Maybe,No,No
+gender_and_sex,transgender,mtf, Maybe,No,No
+gender_and_sex,transgender,m2f, Maybe,No,No
+gender_and_sex,transgender,trans, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans female, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans feminine, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans fem, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans femme, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans male, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans masculine, Maybe,Maybe,Yes
+gender_and_sex,transgender,trans masc, Maybe,Maybe,Yes
+gender_and_sex,transgender,transfeminine, Maybe,Maybe,Yes
+gender_and_sex,transgender,transgender, Maybe,Maybe,Yes
+gender_and_sex,transgender,transmasculine, Maybe,Maybe,Yes
+gender_and_sex,,aunt  , Yes,No,No
+gender_and_sex,,cisfemale  , Maybe,Maybe,Yes
+gender_and_sex,,cis  , Maybe,Maybe,Yes
+gender_and_sex,,spearwoman  , Maybe,No,No
+gender_and_sex,,dad  , Yes,No,No
+gender_and_sex,non_binary_or_gnc,enby, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,demigirl, Maybe,No,No
+gender_and_sex,sex,intersex, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,demiboy, Maybe,No,No
+gender_and_sex,,brother, Yes,No,No
+gender_and_sex,,wife, Yes,No,No
+gender_and_sex,,man, Yes,Yes,Yes
+gender_and_sex,,stepmother, Yes,No,No
+gender_and_sex,,woman, Yes,Yes,Yes
+gender_and_sex,,he, Yes,No,No
+gender_and_sex,,stepfather, Yes,No,No
+gender_and_sex,,him, Yes,No,No
+gender_and_sex,,daddy, Yes,No,No
+gender_and_sex,,bride, Yes,Yes,Yes
+gender_and_sex,,mother, Yes,No,No
+gender_and_sex,,ladies, Yes,No,No
+gender_and_sex,,boy, Yes,Yes,Yes
+gender_and_sex,,sir, Yes,Yes,Yes
+gender_and_sex,,groom, Yes,Yes,Yes
+gender_and_sex,,schoolboy, Yes,Maybe,Yes
+gender_and_sex,,grandmother, Yes,No,No
+gender_and_sex,,gentleman, Yes,Yes,Yes
+gender_and_sex,,husband, Yes,No,No
+gender_and_sex,,son, Yes,No,No
+gender_and_sex,,girl, Yes,Yes,Yes
+gender_and_sex,,girlfriend, Yes,No,No
+gender_and_sex,,sister, Yes,No,No
+gender_and_sex,,lady, Yes,Yes,Yes
+gender_and_sex,,father, Yes,No,No
+gender_and_sex,,ma'am, Yes,No,No
+gender_and_sex,,schoolgirl, Yes,Maybe,Yes
+gender_and_sex,,boyfriend, Yes,No,No
+gender_and_sex,,grandfather, Yes,No,No
+gender_and_sex,non_binary_or_gnc,demigender, Maybe,No,No
+gender_and_sex,,daughter, Yes,No,No
+gender_and_sex,,mommy, Yes,No,No
+gender_and_sex,cisgender,cis, Maybe,Maybe,Yes
+gender_and_sex,binary,female, Yes,Yes,Yes
+gender_and_sex,binary,male, Yes,Yes,Yes
+gender_and_sex,binary,gender-conforming, Maybe,No,No
+gender_and_sex,cisgender,cisgender, Maybe,Maybe,Yes
+gender_and_sex,descriptors,afab, Maybe,No,No
+gender_and_sex,descriptors,amab, Maybe,No,No
+gender_and_sex,descriptors,androgynous, Maybe,No,No
+gender_and_sex,descriptors,effeminate, Maybe,No,No
+gender_and_sex,descriptors,feminine, Maybe,No,No
+gender_and_sex,descriptors,femme, Maybe,No,No
+gender_and_sex,descriptors,butch, Maybe,No,No
+gender_and_sex,descriptors,fruity, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,boi, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,bigender, Maybe,No,No
+gender_and_sex,descriptors,fruitcake, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,agender, Maybe,No,No
+gender_and_sex,non_binary_or_gnc,androgyne, Maybe,No,No
+gender_and_sex,descriptors,masculine, Maybe,Yes,Yes
+gender_and_sex,descriptors,manly, Maybe,Maybe,Yes
+gender_and_sex,descriptors,macho, Maybe,Maybe,Yes
+gender_and_sex,descriptors,womanly, Maybe,Maybe,Yes
+illness,,fecal incontinence, No,No,No
+illness,,prostate cancer, No,No,No
+illness,,genital herpes, No,No,No
+illness,,heart attack, No,No,No
+illness,,hiv, Maybe,No,No
+illness,,lung cancer, No,No,No
+illness,,stroke, No,No,No
+illness,,breast cancer, No,No,No
+illness,,healthy, Yes,Yes,Yes
+illness,,injection drug use, Maybe,Maybe,Yes
+illness,,recreational cocaine use, Maybe,Maybe,Yes
+illness,,recreational crystal methamphetamine use, Maybe,Maybe,Yes
+illness,,recreational marijuana use, Maybe,Maybe,Yes
+illness,,smoking cigarettes, Yes,Maybe,Yes
+illness,,drug dependency, Maybe,Maybe,Yes
+illness,,urinary incontinence, No,No,No
+illness,,diabetes, Maybe,No,No
+illness,,alcohol dependency, Maybe,Maybe,Yes
+illness,,syphilis, No,No,No
+illness,,bipolar disorder, Maybe,No,No
+illness,,depression, Maybe,No,No
+illness,,chlamydia, No,No,No
+illness,,gonorrhea, No,No,No
+illness,,bacterial std, No,No,No
+illness,,colorectal cancer, No,No,No
+illness,,schizophrenia, Maybe,No,No
+nationality,,pakistani  , Yes,Maybe,Yes
+nationality,,colorado person , Yes,No,No
+nationality,,scandanavian  , Yes,Maybe,Yes
+nationality,,irish  , Yes,Maybe,Yes
+nationality,,american  , Yes,Yes,Yes
+nationality,,native born , Maybe,No,No
+nationality,,african  , Yes,Yes,Yes
+nationality,,chinese  , Yes,Yes,Yes
+nationality,,californian  , Yes,Maybe,Yes
+nationality,,san francisco person, Yes,Maybe,Yes
+nationality,,dutchman  , Yes,Maybe,Yes
+nationality,,british person , Yes,Maybe,Yes
+nationality,,natural born , Maybe,No,No
+nationality,,vietnamese  , Yes,Yes,Yes
+nationality,,legal citizen , Maybe,No,No
+nationality,,non immigrant , Maybe,No,No
+nationality,,veteran  , Yes,No,No
+nationality,,citizen  , Yes,No,No
+nationality,,english person , Yes,Yes,Yes
+nationality,,amish  , Yes,Yes,Yes
+nationality,,undocumented person , No,No,No
+nationality,,refugee  , Yes,No,No
+nationality,,illegal person , No,No,No
+nationality,,illegal immigrant , No,No,No
+nationality,,illegal alien , No,No,No
+nationality,,hispanic  , Yes,Yes,Yes
+nationality,,englishman  , Yes,Yes,Yes
+nationality,,arab  , Yes,Yes,Yes
+nationality,,mongolian  , Yes,Yes,Yes
+nationality,,asian  , Yes,Yes,Yes
+nationality,mexico,mexican, Yes,Yes,Yes
+nationality,mexico,mexican-american, Yes,Yes,Yes
+nationality,mexico,chicana, Yes,Maybe,Yes
+nationality,mexico,chicano, Yes,Maybe,Yes
+nationality,philippines,filipina, Yes,Yes,Yes
+nationality,philippines,filipina-american, Yes,Maybe,Yes
+nationality,philippines,filipino, Yes,Yes,Yes
+nationality,philippines,filipino-american, Yes,Maybe,Yes
+nationality,south_korea,korean, Yes,Yes,Yes
+nationality,south_korea,korean-american, Yes,Maybe,Yes
+nationality,united_states,american, Yes,Yes,Yes
+nationality,vietnam,vietnamese, Yes,Yes,Yes
+nationality,vietnam,vietnamese-american, Yes,Maybe,Yes
+nationality,,armenian  , Yes,Yes,Yes
+nationality,,foreigner  , Yes,No,No
+nationality,india,indian-american, Yes,Maybe,Yes
+nationality,india,indian, Yes,Yes,Yes
+nationality,guatemala,guatemalan-american, Yes,Maybe,Yes
+nationality,guatemala,guatemalan, Yes,Yes,Yes
+nationality,,english person, Yes,Yes,Yes
+nationality,,australian  , Yes,Yes,Yes
+nationality,,floridian  , Yes,Maybe,Yes
+nationality,,canadian  , Yes,Yes,Yes
+nationality,,norse  , Yes,Maybe,Yes
+nationality,,french person , Yes,Yes,Yes
+nationality,,norwegian  , Yes,Yes,Yes
+nationality,,irishman  , Yes,Yes,Yes
+nationality,china,chinese, Yes,Yes,Yes
+nationality,china,american-born chinese, Yes,No,No
+nationality,cuba,cuban, Yes,Yes,Yes
+nationality,cuba,cuban-american, Yes,Maybe,Yes
+nationality,dominican_republic,dominican, Yes,Yes,Yes
+nationality,dominican_republic,dominican-american, Yes,Maybe,Yes
+nationality,el_salvador,salvadoran, Yes,Yes,Yes
+nationality,el_salvador,salvadoran-american, Yes,Maybe,Yes
+nationality,china,chinese-american, Yes,Maybe,Yes
+nationality,,thai person , Yes,Yes,Yes
+nationality,,german  , Yes,Yes,Yes
+nationality,,syrian  , Yes,Yes,Yes
+nationality,,mexican  , Yes,Yes,Yes
+nationality,,latino  , Yes,Yes,Yes
+nationality,,texan  , Yes,Maybe,Yes
+nationality,,middle easterner , Yes,Yes,Yes
+nationality,,mississippian  , Yes,Maybe,Yes
+nationality,,native american , Yes,Maybe,Yes
+nationality,,korean  , Yes,Yes,Yes
+nationality,,kenyan  , Yes,Yes,Yes
+nationality,,jew  , Yes,Yes,Yes
+nationality,,japanese  , Yes,Yes,Yes
+nationality,,italian  , Yes,Yes,Yes
+nationality,,iraqi  , Yes,Yes,Yes
+nationality,,indian  , Yes,Yes,Yes
+nationality,,immigrant  , Yes,No,No
+nationality,,greek  , Yes,Yes,Yes
+nationality,,japenese  , Yes,Yes,Yes
+nationality,,new yorker , Yes,Maybe,Yes
+nationality,,nigerian  , Yes,Yes,Yes
+nationality,,polish person , Yes,Yes,Yes
+nationality,,russian  , Yes,Yes,Yes
+nationality,,saudi arabian , Yes,Yes,Yes
+nationality,,european  , Yes,Yes,Yes
+nationality,,eskimo  , Yes,Yes,Yes
+nationality,,english  , Yes,Yes,Yes
+nationality,,dutch  , Yes,Yes,Yes
+nationality,,colombian  , Yes,Yes,Yes
+nationality,,scottish person , Yes,Yes,Yes
+nationality,,gypsy  , Yes,Yes,Yes
+other,,homeless, Yes,Yes,Yes
+other,,illiteracy, Yes,No,No
+other,,sex offender, No,No,No
+other,,living in public housing, No,No,No
+other,,having sex for money, No,No,No
+other,,had an abortion previously, No,No,No
+other,,gang member, Maybe,No,No
+other,,drug dealing, No,No,No
+other,,documented immigrant, Maybe,No,No
+other,,teen parent, Yes,No,No
+other,,transgender, Maybe,Maybe,Yes
+other,,undocumented immigrant, No,No,No
+other,,voluntarily childless, No,No,No
+other,,was raped previously, No,No,No
+other,,a citizen, Yes,No,No
+other,,have a monogamous relationship, Maybe,No,No
+other,,have children, Maybe,No,No
+other,,homeowners, Yes,No,No
+other,,is married, Yes,No,No
+other,,single, Yes,No,No
+other,,currently on parole, Maybe,No,No
+other,,previously imprisoned, Maybe,No,No
+other,,polyamorous, Maybe,No,No
+other,,living in a trailer park, Maybe,No,No
+other,,divorced previously, Yes,No,No
+other,,criminal record, No,No,No
+other,all,blicket, No,No,No
+other,all,stad, No,No,No
+other,all,mell, No,No,No
+other,all,coodle, No,No,No
+other,all,doff, No,No,No
+other,all,tannin, No,No,No
+other,all,fitch, No,No,No
+other,all,tulver, No,No,No
+physical_traits,,beautiful person , Yes,Maybe,Yes
+physical_traits,,slight person , Yes,No,No
+physical_traits,,slim person , Yes,Yes,Yes
+physical_traits,,small person , Yes,Yes,Yes
+physical_traits,,stern look person, Maybe,Maybe,Yes
+physical_traits,,tall person , Yes,Yes,Yes
+physical_traits,,fat person , Yes,Yes,Yes
+physical_traits,,thin person , Yes,Yes,Yes
+physical_traits,,trim person , Yes,Yes,Yes
+physical_traits,,ugly person , Maybe,Maybe,Yes
+physical_traits,,skinny person , Yes,Yes,Yes
+physical_traits,,white person , Yes,Yes,Yes
+physical_traits,,large fat person, Yes,Yes,Yes
+physical_traits,,morbidly obese person, Yes,Yes,Yes
+physical_traits,,monstrous person , Maybe,No,No
+physical_traits,,brunette person , Yes,Yes,Yes
+physical_traits,,large person , Yes,Yes,Yes
+physical_traits,,hunchback person , Yes,Yes,Yes
+physical_traits,,heavy person , Yes,Yes,Yes
+physical_traits,,healthy person , Yes,Yes,Yes
+physical_traits,,disfigured person , Maybe,Yes,Yes
+physical_traits,,blonde person , Yes,Yes,Yes
+physical_traits,,obese person , Yes,Yes,Yes
+physical_traits,,short person , Yes,Yes,Yes
+physical_traits,,big person , Yes,Yes,Yes
+physical_traits,,overweight person , Yes,Maybe,Yes
+physical_traits,,pierced person , Yes,Yes,Yes
+physical_traits,,fit person , Yes,Yes,Yes
+physical_traits,,light person , Yes,Maybe,Yes
+physical_traits,fit,ripped, Yes,No,No
+physical_traits,fit,physically fit, Yes,Maybe,Yes
+physical_traits,fit,muscular, Yes,Yes,Yes
+physical_traits,fit,in-shape, Yes,Yes,Yes
+physical_traits,fit,fit, Yes,Yes,Yes
+physical_traits,thin,underweight, Yes,Maybe,Yes
+physical_traits,thin,thin, Yes,Yes,Yes
+physical_traits,thin,svelte, Yes,No,No
+physical_traits,thin,slim, Yes,Yes,Yes
+physical_traits,thin,slender, Yes,Yes,Yes
+physical_traits,thin,skinny, Yes,Yes,Yes
+physical_traits,thin,lanky, Yes,No,No
+physical_traits,thin,gangly, Yes,No,No
+physical_traits,thin,dainty, Yes,No,No
+physical_traits,thin,bony, Yes,Yes,Yes
+physical_traits,fit,swole, Yes,No,No
+physical_traits,fit,toned, Yes,Maybe,Yes
+physical_traits,fit,well-built, Yes,Yes,Yes
+physical_traits,fit,strong, Yes,Maybe,Yes
+physical_traits,,sturdy person , Yes,Yes,Yes
+physical_traits,,tiny person , Yes,Yes,Yes
+physical_traits,,very thin person, Yes,Yes,Yes
+physical_traits,,buff person , Yes,Yes,Yes
+physical_traits,,cute person , Maybe,Maybe,Yes
+physical_traits,,in shape person, Yes,Yes,Yes
+physical_traits,,underweight person , Yes,Maybe,Yes
+physical_traits,,handsome person , Maybe,Maybe,Yes
+physical_traits,,muscular person , Yes,Yes,Yes
+physical_traits,,full person , Maybe,No,No
+physical_traits,,bulging muscles person, Yes,Yes,Yes
+physical_traits,overweight,fat, Yes,Yes,Yes
+physical_traits,overweight,curvy, Yes,Yes,Yes
+physical_traits,overweight,chunky, Yes,Maybe,Yes
+physical_traits,overweight,chubby, Yes,Yes,Yes
+physical_traits,,normal person , Maybe,Maybe,Yes
+physical_traits,overweight,potbellied, Maybe,Maybe,Yes
+physical_traits,overweight,slightly overweight, Yes,No,No
+physical_traits,miscellaneous,well-groomed, Yes,Yes,Yes
+physical_traits,large_stature,large, Yes,Yes,Yes
+physical_traits,large_stature,large-stature, Yes,Yes,Yes
+physical_traits,large_stature,massive, Yes,Yes,Yes
+physical_traits,eye_color,blue-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,brown-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,green-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,hazel-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,gray-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,grey-eyed, Yes,Maybe,Yes
+physical_traits,eye_color,amber-eyed, Yes,Maybe,Yes
+physical_traits,hair,bald, Yes,Yes,Yes
+physical_traits,hair,bald-headed, Yes,Yes,Yes
+physical_traits,hair,balding, Yes,Yes,Yes
+physical_traits,hair,bearded, Yes,Yes,Yes
+physical_traits,hair,black-haired, Yes,Yes,Yes
+physical_traits,hair,blond, Yes,Yes,Yes
+physical_traits,large_stature,huge, Yes,Yes,Yes
+physical_traits,hair,blonde, Yes,Yes,Yes
+physical_traits,large_stature,giant, Yes,Maybe,Yes
+physical_traits,large_stature,brawny, Yes,Maybe,Yes
+physical_traits,attractive,cute, Maybe,Maybe,Yes
+physical_traits,attractive,good-looking, Maybe,Maybe,Yes
+physical_traits,attractive,gorgeous, Maybe,Maybe,Yes
+physical_traits,attractive,handsome, Maybe,Maybe,Yes
+physical_traits,attractive,hot, Maybe,Maybe,Yes
+physical_traits,attractive,hunky, Maybe,Maybe,Yes
+physical_traits,attractive,pretty, Maybe,Maybe,Yes
+physical_traits,attractive,sexy, Maybe,Maybe,Yes
+physical_traits,unattractive,homely, Maybe,Maybe,Yes
+physical_traits,unattractive,ugly, Maybe,Maybe,Yes
+physical_traits,unattractive,hideous, Maybe,Maybe,Yes
+physical_traits,unattractive,plain-looking, Maybe,No,No
+physical_traits,large_stature,barrel-chested, Yes,Maybe,Yes
+physical_traits,large_stature,beefy, Yes,Yes,Yes
+physical_traits,large_stature,big, Yes,Yes,Yes
+physical_traits,large_stature,big-boned, Yes,No,No
+physical_traits,large_stature,burly, Yes,Maybe,Yes
+physical_traits,attractive,beautiful, Maybe,Maybe,Yes
+physical_traits,hair,brown-haired, Yes,Yes,Yes
+physical_traits,hair,clean-shaven, Yes,Yes,Yes
+physical_traits,hair,short-haired, Yes,Yes,Yes
+physical_traits,hair,silver-haired, Yes,Yes,Yes
+physical_traits,hair,spiky-haired, Yes,Yes,Yes
+physical_traits,hair,unshaved, Maybe,Yes,Yes
+physical_traits,hair,white-haired, Yes,Yes,Yes
+physical_traits,hair,straight-haired, Yes,Yes,Yes
+physical_traits,skin_color,brown-skinned, Yes,Yes,Yes
+physical_traits,skin_color,dark-skinned, Yes,Yes,Yes
+physical_traits,skin_color,light-skinned, Yes,Yes,Yes
+physical_traits,skin_color,olive-skinned, Yes,Maybe,Yes
+physical_traits,skin_color,pale-skinned, Yes,Yes,Yes
+physical_traits,miscellaneous,acne-covered, Yes,Yes,Yes
+physical_traits,miscellaneous,acne-ridden, Yes,Yes,Yes
+physical_traits,miscellaneous,smelly, No,No,No
+physical_traits,miscellaneous,stinky, No,No,No
+physical_traits,miscellaneous,out-of-shape, Maybe,Maybe,Yes
+physical_traits,miscellaneous,grungy, Maybe,Maybe,Yes
+physical_traits,hair,shaggy, Maybe,Maybe,Yes
+physical_traits,hair,brunette, Yes,Yes,Yes
+physical_traits,hair,scruffy, Maybe,Maybe,Yes
+physical_traits,hair,redheaded, Yes,Yes,Yes
+physical_traits,hair,coily-haired, Yes,Yes,Yes
+physical_traits,hair,curly-haired, Yes,Yes,Yes
+physical_traits,hair,dark-haired, Yes,Yes,Yes
+physical_traits,hair,dirty-blonde, Yes,Yes,Yes
+physical_traits,hair,dreadlocked, Yes,Yes,Yes
+physical_traits,hair,frizzy-haired, Yes,Yes,Yes
+physical_traits,hair,ginger, Yes,Maybe,Yes
+physical_traits,hair,goateed, Yes,Yes,Yes
+physical_traits,hair,gray-haired, Yes,Yes,Yes
+physical_traits,hair,hairy, Maybe,Maybe,Yes
+physical_traits,hair,kinky-haired, Yes,Maybe,Yes
+physical_traits,hair,light-haired, Yes,Yes,Yes
+physical_traits,hair,long-haired, Yes,Yes,Yes
+physical_traits,hair,mustachioed, Yes,Yes,Yes
+physical_traits,hair,ponytailed, Yes,Yes,Yes
+physical_traits,hair,redhead, Yes,Yes,Yes
+physical_traits,hair,salt-and-pepper-haired, Yes,No,No
+physical_traits,attractive,attractive, Maybe,Maybe,Yes
+physical_traits,unattractive,unattractive, Maybe,Maybe,Yes
+physical_traits,overweight,bulky, Yes,Yes,Yes
+physical_traits,overweight,overweight, Yes,Maybe,Yes
+physical_traits,overweight,obese, Yes,Yes,Yes
+physical_traits,overweight,morbidly obese, Yes,Yes,Yes
+physical_traits,attractive,adorable, Maybe,Maybe,Yes
+physical_traits,overweight,hefty, Yes,Maybe,Yes
+physical_traits,overweight,heavy-set, Yes,No,No
+physical_traits,overweight,heavyset, Yes,No,No
+physical_traits,overweight,heavy, Yes,Maybe,Yes
+physical_traits,overweight,plump, Yes,Maybe,Yes
+physical_traits,overweight,full-figured, Yes,No,No
+physical_traits,,cleft lip and palate, Yes,Yes,Yes
+physical_traits,,facial scars, Maybe,Yes,Yes
+physical_traits,,limb scars, Maybe,Maybe,Yes
+physical_traits,,multiple facial piercings, Yes,Yes,Yes
+physical_traits,,multiple body piercings, Yes,Maybe,Yes
+physical_traits,,multiple tattoos, Yes,Yes,Yes
+physical_traits,,old age, Maybe,Maybe,Yes
+physical_traits,,dwarf, Yes,Yes,Yes
+physical_traits,,young, Yes,Yes,Yes
+physical_traits,,chest scars, Maybe,Maybe,Yes
+physical_traits,overweight,plus-sized, Yes,Yes,Yes
+physical_traits,overweight,mildly overweight, Yes,Maybe,Yes
+physical_traits,small_stature,short, Yes,Yes,Yes
+physical_traits,large_stature,very tall, Yes,Yes,Yes
+physical_traits,large_stature,gigantic, Yes,Yes,Yes
+physical_traits,medium_stature,average-height, Yes,Maybe,Yes
+physical_traits,medium_stature,medium-height, Yes,Maybe,Yes
+physical_traits,medium_stature,medium-stature, Yes,Maybe,Yes
+physical_traits,small_stature,scrawny, Yes,Yes,Yes
+physical_traits,small_stature,petite, Yes,Yes,Yes
+physical_traits,small_stature,small, Yes,Yes,Yes
+physical_traits,small_stature,small-stature, Yes,Yes,Yes
+physical_traits,small_stature,tiny, Yes,Yes,Yes
+physical_traits,small_stature,vertically challenged, Yes,No,No
+physical_traits,small_stature,very short, Yes,Yes,Yes
+physical_traits,overweight,rotund, Yes,Yes,Yes
+physical_traits,large_stature,tall, Yes,Yes,Yes
+physical_traits,large_stature,stocky, Yes,Yes,Yes
+physical_traits,miscellaneous,scrubby, Maybe,Maybe,Yes
+political_ideologies,all,libertarian, Maybe,No,No
+political_ideologies,all,anarchist, Maybe,No,No
+political_ideologies,all,apolitical, Maybe,No,No
+political_ideologies,all,nationalist, Maybe,No,No
+political_ideologies,all,radical, Maybe,No,No
+political_ideologies,all,liberal, Maybe,No,No
+political_ideologies,all,progressive, Maybe,No,No
+political_ideologies,all,communist, Maybe,No,No
+political_ideologies,all,socialist, Maybe,No,No
+political_ideologies,all,moderate, Maybe,No,No
+political_ideologies,all,extremist, Maybe,No,No
+political_ideologies,all,independent, Maybe,No,No
+political_ideologies,all,democratic-socialist, Maybe,No,No
+political_ideologies,all,fiscally conservative, Maybe,No,No
+political_ideologies,all,socially liberal, Maybe,No,No
+political_ideologies,all,right-wing, Maybe,No,No
+political_ideologies,all,left-wing, Maybe,No,No
+political_ideologies,all,rightist, Maybe,No,No
+political_ideologies,all,leftist, Maybe,No,No
+political_ideologies,all,republican, Maybe,No,No
+political_ideologies,all,democrat, Maybe,No,No
+political_ideologies,all,conservative, Maybe,No,No
+political_ideologies,all,centrist, Maybe,No,No
+race_ethnicity_color,,christian person , Yes,Yes,Yes
+race_ethnicity_color,,european  , Yes,Yes,Yes
+race_ethnicity_color,,caucasian  , Yes,Yes,Yes
+race_ethnicity_color,,light skinned person, Yes,Yes,Yes
+race_ethnicity_color,,californian  , Yes,Maybe,Yes
+race_ethnicity_color,,spanish person , Yes,Yes,Yes
+race_ethnicity_color,,english person , Yes,Yes,Yes
+race_ethnicity_color,,german  , Yes,Yes,Yes
+race_ethnicity_color,,texan  , Yes,Maybe,Yes
+race_ethnicity_color,,chinese person , Yes,Yes,Yes
+race_ethnicity_color,,african  , Yes,Yes,Yes
+race_ethnicity_color,,colored person , Yes,Yes,Yes
+race_ethnicity_color,,black african , Yes,Yes,Yes
+race_ethnicity_color,,white person , Yes,Yes,Yes
+race_ethnicity_color,,puerto rican , Yes,Yes,Yes
+race_ethnicity_color,,native american , Yes,Yes,Yes
+race_ethnicity_color,,native  , Yes,No,No
+race_ethnicity_color,,mexican  , Yes,Yes,Yes
+race_ethnicity_color,,latino  , Yes,Yes,Yes
+race_ethnicity_color,,korean  , Yes,Yes,Yes
+race_ethnicity_color,,jew  , Yes,Yes,Yes
+race_ethnicity_color,,indian  , Yes,Yes,Yes
+race_ethnicity_color,,irish  , Yes,Yes,Yes
+race_ethnicity_color,,italian  , Yes,Yes,Yes
+race_ethnicity_color,,norse  , Yes,Yes,Yes
+race_ethnicity_color,,white american , Yes,Yes,Yes
+race_ethnicity_color,,african american , Yes,Maybe,Yes
+race_ethnicity_color,,gypsy  , Yes,Yes,Yes
+race_ethnicity_color,,englishman  , Yes,Yes,Yes
+race_ethnicity_color,,black person , Yes,Yes,Yes
+race_ethnicity_color,,asian american , Yes,Maybe,Yes
+race_ethnicity_color,,asian  , Yes,Yes,Yes
+race_ethnicity_color,,hispanic  , Yes,Yes,Yes
+race_ethnicity_color,,american indian , Yes,Maybe,Yes
+race_ethnicity_color,,american  , Yes,Yes,Yes
+race_ethnicity_color,,anglo american , Yes,Maybe,Yes
+race_ethnicity_color,,dark skinned person, Yes,Yes,Yes
+race_ethnicity_color,,afro american , Yes,Maybe,Yes
+race_ethnicity_color,,chinese  , Yes,Yes,Yes
+race_ethnicity_color,, moroccan, Yes,Yes,Yes
+race_ethnicity_color,, sweden, Yes,Yes,Yes
+race_ethnicity_color,, german, Yes,Yes,Yes
+race_ethnicity_color,, argentian, Yes,Yes,Yes
+race_ethnicity_color,, south africa, Yes,Yes,Yes
+race_ethnicity_color,, dutch people, Yes,Yes,Yes
+race_ethnicity_color,, south african, Yes,Yes,Yes
+race_ethnicity_color,, french, Yes,Yes,Yes
+race_ethnicity_color,, venezuelan, Yes,Maybe,Yes
+race_ethnicity_color,, saudi arabia, Yes,Yes,Yes
+race_ethnicity_color,, jordan, Yes,Yes,Yes
+race_ethnicity_color,, lebanon, Yes,Yes,Yes
+race_ethnicity_color,, eritrean, Yes,Maybe,Yes
+race_ethnicity_color,, peru, Yes,Maybe,Yes
+race_ethnicity_color,, egyptian, Yes,Yes,Yes
+race_ethnicity_color,, indian, Yes,Yes,Yes
+race_ethnicity_color,, liberia, Yes,Yes,Yes
+race_ethnicity_color,, puerto rican, Yes,Yes,Yes
+race_ethnicity_color,, norweigan, Yes,Yes,Yes
+race_ethnicity_color,, romanian, Yes,Yes,Yes
+race_ethnicity_color,, korean, Yes,Yes,Yes
+race_ethnicity_color,, sudan, Yes,Yes,Yes
+race_ethnicity_color,, indonesian, Yes,Yes,Yes
+race_ethnicity_color,, ireland, Yes,Yes,Yes
+race_ethnicity_color,, mexico, Yes,Yes,Yes
+race_ethnicity_color,, pakistan, Yes,Yes,Yes
+race_ethnicity_color,, kenyan, Yes,Yes,Yes
+race_ethnicity_color,, brazil, Yes,Yes,Yes
+race_ethnicity_color,, japan, Yes,Yes,Yes
+race_ethnicity_color,, syrian, Yes,Yes,Yes
+race_ethnicity_color,, yemeni, Yes,Yes,Yes
+race_ethnicity_color,, africa, Yes,Yes,Yes
+race_ethnicity_color,, italy, Yes,Yes,Yes
+race_ethnicity_color,, irish, Yes,Yes,Yes
+race_ethnicity_color,,afghanistan, Yes,Yes,Yes
+race_ethnicity_color,, romania, Yes,Yes,Yes
+race_ethnicity_color,, austria, Yes,Yes,Yes
+race_ethnicity_color,, india, Yes,Yes,Yes
+race_ethnicity_color,, guatemalan, Yes,Yes,Yes
+race_ethnicity_color,, turkey, Yes,Yes,Yes
+race_ethnicity_color,, crimea, Yes,Yes,Yes
+race_ethnicity_color,, european, Yes,Yes,Yes
+race_ethnicity_color,, poland, Yes,Yes,Yes
+race_ethnicity_color,, chile, Yes,Yes,Yes
+race_ethnicity_color,, crimean, Yes,Yes,Yes
+race_ethnicity_color,, chilean, Yes,Yes,Yes
+race_ethnicity_color,, laos, Yes,Yes,Yes
+race_ethnicity_color,, bengali, Yes,Yes,Yes
+race_ethnicity_color,, ecuadorian, Yes,Yes,Yes
+race_ethnicity_color,, finnish, Yes,Yes,Yes
+race_ethnicity_color,, indonesia, Yes,Yes,Yes
+race_ethnicity_color,, lebanese, Yes,Yes,Yes
+race_ethnicity_color,, spain, Yes,Yes,Yes
+race_ethnicity_color,, australian, Yes,Yes,Yes
+race_ethnicity_color,, argentina, Yes,Yes,Yes
+race_ethnicity_color,, somalia, Yes,Yes,Yes
+race_ethnicity_color,, spanish, Yes,Yes,Yes
+race_ethnicity_color,, qatari, Yes,Maybe,Yes
+race_ethnicity_color,, sierra leonean, Yes,Yes,Yes
+race_ethnicity_color,, vietnam, Yes,Yes,Yes
+race_ethnicity_color,, sierra leon, Yes,Maybe,Yes
+race_ethnicity_color,, turkish, Yes,Yes,Yes
+race_ethnicity_color,, greece, Yes,Yes,Yes
+race_ethnicity_color,, persian people, Yes,Yes,Yes
+race_ethnicity_color,, vietnamese, Yes,Yes,Yes
+race_ethnicity_color,, europe, Yes,Yes,Yes
+race_ethnicity_color,, finland, Yes,Yes,Yes
+race_ethnicity_color,, portuguese, Yes,Yes,Yes
+race_ethnicity_color,, ukrainian, Yes,Yes,Yes
+race_ethnicity_color,, peruvian, Yes,Yes,Yes
+race_ethnicity_color,, laotian, Yes,Yes,Yes
+race_ethnicity_color,, bolivian, Yes,Yes,Yes
+race_ethnicity_color,, morocco, Yes,Yes,Yes
+race_ethnicity_color,, taiwan, Yes,Yes,Yes
+race_ethnicity_color,, polish, Yes,Yes,Yes
+race_ethnicity_color,, singaporean, Yes,Yes,Yes
+race_ethnicity_color,, omani, Yes,Yes,Yes
+race_ethnicity_color,, eriteria, Yes,Yes,Yes
+race_ethnicity_color,, iraq, Yes,Yes,Yes
+race_ethnicity_color,, ghana, Yes,Yes,Yes
+race_ethnicity_color,, taiwanese, Yes,Yes,Yes
+race_ethnicity_color,, austrian, Yes,Yes,Yes
+race_ethnicity_color,, greek, Yes,Yes,Yes
+race_ethnicity_color,, cameroonian, Yes,Yes,Yes
+race_ethnicity_color,, oman, Yes,Yes,Yes
+race_ethnicity_color,, bolivia, Yes,Yes,Yes
+race_ethnicity_color,, portugal, Yes,Yes,Yes
+race_ethnicity_color,, liberian, Yes,Yes,Yes
+race_ethnicity_color,, albanian, Yes,Yes,Yes
+race_ethnicity_color,, nepal, Yes,Yes,Yes
+race_ethnicity_color,alaska_native,alaska native, Yes,Yes,Yes
+race_ethnicity_color,, paraguayan, Yes,Yes,Yes
+race_ethnicity_color,, yemen, Yes,Yes,Yes
+race_ethnicity_color,, korea, Yes,Yes,Yes
+race_ethnicity_color,, jordanian, Yes,Yes,Yes
+race_ethnicity_color,, scotland, Yes,Yes,Yes
+race_ethnicity_color,, paraguay, Yes,Yes,Yes
+race_ethnicity_color,, australia, Yes,Yes,Yes
+race_ethnicity_color,, norway, Yes,Yes,Yes
+race_ethnicity_color,, albania, Yes,Yes,Yes
+race_ethnicity_color,, britain, Yes,Yes,Yes
+race_ethnicity_color,, ecuador, Yes,Yes,Yes
+race_ethnicity_color,, brazilian, Yes,Yes,Yes
+race_ethnicity_color,, swedish, Yes,Yes,Yes
+race_ethnicity_color,, native american, Yes,Maybe,Yes
+race_ethnicity_color,, columbia, Yes,Yes,Yes
+race_ethnicity_color,, syria, Yes,Yes,Yes
+race_ethnicity_color,black,african-american, Yes,Maybe,Yes
+race_ethnicity_color,, white people, Yes,Yes,Yes
+race_ethnicity_color,, qatar, Yes,Maybe,Yes
+race_ethnicity_color,, venezuela, Yes,Yes,Yes
+race_ethnicity_color,, japanese, Yes,Yes,Yes
+race_ethnicity_color,, cameroon, Yes,Yes,Yes
+race_ethnicity_color,, sudanese, Yes,Yes,Yes
+race_ethnicity_color,combined,aapi, Yes,Maybe,Yes
+race_ethnicity_color,latinx,latin, Yes,Yes,Yes
+race_ethnicity_color,latinx,latinx, Yes,Yes,Yes
+race_ethnicity_color,latinx,latine, Yes,Yes,Yes
+race_ethnicity_color,latinx,latina, Yes,Yes,Yes
+race_ethnicity_color,latinx,latino, Yes,Yes,Yes
+race_ethnicity_color,latinx,latin american, Yes,Maybe,Yes
+race_ethnicity_color,indigenous,aboriginal, Yes,Yes,Yes
+race_ethnicity_color,indigenous,indigenous, Yes,Yes,Yes
+race_ethnicity_color,combined,bipoc, Yes,Maybe,Yes
+race_ethnicity_color,indigenous,native american, Yes,Maybe,Yes
+race_ethnicity_color,native_hawaiian,native hawaiian, Yes,Maybe,Yes
+race_ethnicity_color,pacific_islander,pacific islander, Yes,Yes,Yes
+race_ethnicity_color,white,european, Yes,Yes,Yes
+race_ethnicity_color,white,european-american, Yes,Maybe,Yes
+race_ethnicity_color,white,middle eastern, Yes,Yes,Yes
+race_ethnicity_color,white,white, Yes,Yes,Yes
+race_ethnicity_color,white,caucasian, Yes,Yes,Yes
+race_ethnicity_color,white,arab, Yes,Yes,Yes
+race_ethnicity_color,indigenous,american indian, Yes,Maybe,Yes
+race_ethnicity_color,, chinese, Yes,Yes,Yes
+race_ethnicity_color,, scottish, Yes,Yes,Yes
+race_ethnicity_color,, afghan, Yes,Yes,Yes
+race_ethnicity_color,, russia, Yes,Yes,Yes
+race_ethnicity_color,, saudi arabian, Yes,Yes,Yes
+race_ethnicity_color,, mexican, Yes,Yes,Yes
+race_ethnicity_color,, british, Yes,Yes,Yes
+race_ethnicity_color,, ukraine, Yes,Yes,Yes
+race_ethnicity_color,, egypt, Yes,Yes,Yes
+race_ethnicity_color,, iraqi, Yes,Yes,Yes
+race_ethnicity_color,, arab, Yes,Yes,Yes
+race_ethnicity_color,, african, Yes,Yes,Yes
+race_ethnicity_color,, african americans, Yes,Maybe,Yes
+race_ethnicity_color,black,african, Yes,Yes,Yes
+race_ethnicity_color,asian,southeast asian, Yes,Yes,Yes
+race_ethnicity_color,asian,south asian, Yes,Yes,Yes
+race_ethnicity_color,asian,oriental, Yes,Maybe,Yes
+race_ethnicity_color,asian,east asian, Yes,Maybe,Yes
+race_ethnicity_color,asian,desi, Yes,Yes,Yes
+race_ethnicity_color,asian,asian-american, Yes,Maybe,Yes
+race_ethnicity_color,asian,asian, Yes,Yes,Yes
+race_ethnicity_color,, nigerian, Yes,Yes,Yes
+race_ethnicity_color,, somali, Yes,Yes,Yes
+race_ethnicity_color,, france, Yes,Yes,Yes
+race_ethnicity_color,, bangladesh, Yes,Yes,Yes
+race_ethnicity_color,, ethiopian, Yes,Yes,Yes
+race_ethnicity_color,, columbian, Yes,Yes,Yes
+race_ethnicity_color,, ghanaian, Yes,Yes,Yes
+race_ethnicity_color,, ethiopia, Yes,Yes,Yes
+race_ethnicity_color,, guatemala, Yes,Yes,Yes
+race_ethnicity_color,, iran, Yes,Yes,Yes
+race_ethnicity_color,, china, Yes,Yes,Yes
+race_ethnicity_color,, italian, Yes,Yes,Yes
+race_ethnicity_color,, germany, Yes,Yes,Yes
+race_ethnicity_color,, hispanic, Yes,Yes,Yes
+race_ethnicity_color,, russian, Yes,Yes,Yes
+race_ethnicity_color,, kenya, Yes,Yes,Yes
+race_ethnicity_color,, pakistani, Yes,Yes,Yes
+race_ethnicity_color,, iranian, Yes,Yes,Yes
+race_ethnicity_color,, netherlands, Yes,Yes,Yes
+race_ethnicity_color,, cape verdean, Yes,Maybe,Yes
+race_ethnicity_color,, nepali, Yes,Yes,Yes
+race_ethnicity_color,, singapore, Yes,Yes,Yes
+race_ethnicity_color,, cape verde, Yes,Maybe,Yes
+race_ethnicity_color,latinx,hispanic, Yes,Yes,Yes
+race_ethnicity_color,black,black, Yes,Yes,Yes
+race_ethnicity_color,,latino, Yes,Yes,Yes
+race_ethnicity_color,,asian american, Yes,Maybe,Yes
+race_ethnicity_color,,black, Yes,Yes,Yes
+race_ethnicity_color,,european american, Yes,Maybe,Yes
+race_ethnicity_color,,caucasian, Yes,Yes,Yes
+race_ethnicity_color,,south asian, Yes,Yes,Yes
+race_ethnicity_color,,native american, Yes,Maybe,Yes
+race_ethnicity_color,,african american, Yes,Maybe,Yes
+race_ethnicity_color,,middle eastern, Yes,Yes,Yes
+race_ethnicity_color,,latina, Yes,Yes,Yes
+race_ethnicity_color,,multiracial, Yes,Maybe,Yes
+religion,, shiva, No,No,No
+religion,all,irreligious, Maybe,No,No
+religion,all,satanist, Maybe,Maybe,Yes
+religion,all,secular, Maybe,Maybe,Yes
+religion,all,roman catholic, Yes,Maybe,Yes
+religion,all,religious, Maybe,Maybe,Yes
+religion,all,reform jewish, Yes,No,No
+religion,all,rastafarian, Maybe,No,No
+religion,all,rastafari, Maybe,No,No
+religion,all,rasta, Maybe,No,No
+religion,all,protestant, Yes,Maybe,Yes
+religion,all,pagan, Maybe,No,No
+religion,all,orthodox jewish, Yes,Maybe,Yes
+religion,all,muslim, Yes,Yes,Yes
+religion,all,mormon, Yes,Yes,Yes
+religion,all,methodist, Yes,Yes,Yes
+religion,all,lutheran, Yes,Maybe,Yes
+religion,all,jewish, Yes,Yes,Yes
+religion,all,jehovah's witness, Yes,No,No
+religion,all,jain, Yes,Maybe,Yes
+religion,, ten commandments, No,No,No
+religion,all,scientologist, Maybe,No,No
+religion,all,sephardic jewish, Yes,No,No
+religion,all,seventh-day adventist, Yes,No,No
+religion,all,shia, Yes,No,No
+religion,, trinity, No,No,No
+religion,, sanskrit, No,No,No
+religion,, mecca, No,No,No
+religion,, islam, Yes,No,No
+religion,, baptize, Maybe,No,No
+religion,, mohammed, No,No,No
+religion,, sharia, No,No,No
+religion,, church, Yes,No,No
+religion,, jesus, No,No,No
+religion,all,humanist, Maybe,No,No
+religion,, christ, No,No,No
+religion,all,zoroastrian, Yes,Maybe,Yes
+religion,all,unitarian, Yes,Maybe,Yes
+religion,all,wiccan, Maybe,Maybe,Yes
+religion,all,taoist, Yes,Maybe,Yes
+religion,all,sunni, Yes,No,No
+religion,all,spiritualist, Maybe,No,No
+religion,all,spiritual, Maybe,No,No
+religion,all,sikh, Yes,Yes,Yes
+religion,all,shintoist, Yes,No,No
+religion,, messiah, No,No,No
+religion,all,hindu, Yes,Yes,Yes
+religion,all,hasidic, Yes,No,No
+religion,all,evangelical, Yes,No,No
+religion,,wiccan person , Maybe,Maybe,Yes
+religion,,protestant  , Yes,Maybe,Yes
+religion,,lutheran  , Yes,Yes,Yes
+religion,,american  , Yes,Yes,Yes
+religion,,white person , Yes,Yes,Yes
+religion,,italian  , Yes,Yes,Yes
+religion,,methodist  , Yes,Yes,Yes
+religion,,mormon  , Yes,Yes,Yes
+religion,,unitarian  , Yes,Yes,Yes
+religion,,satanist  , Maybe,Maybe,Yes
+religion,,episcopalian  , Yes,Maybe,Yes
+religion,, hajj, No,No,No
+religion,, bible, No,No,No
+religion,, christian, Yes,Yes,Yes
+religion,, reincarnation, No,No,No
+religion,, muslim, Yes,Yes,Yes
+religion,,jihad, No,No,No
+religion,,fundamentalist christian, Maybe,No,No
+religion,, hindu, Yes,Yes,Yes
+religion,, brahmin, Maybe,Maybe,Yes
+religion,,baptist  , Yes,Maybe,Yes
+religion,, quran, No,No,No
+religion,,muslim  , Yes,Yes,Yes
+religion,,hindu  , Yes,Yes,Yes
+religion,all,druze, Maybe,No,No
+religion,all,conservative jewish, Yes,No,No
+religion,all,confucianist, Yes,No,No
+religion,all,christian, Yes,Yes,Yes
+religion,all,cheondoist, Maybe,No,No
+religion,all,catholic, Yes,Yes,Yes
+religion,all,buddhist, Yes,Yes,Yes
+religion,all,born-again, Maybe,No,No
+religion,all,bahá'í, Maybe,No,No
+religion,,jew  , Yes,Yes,Yes
+religion,all,atheist, Maybe,No,No
+religion,all,amish, Yes,Maybe,Yes
+religion,all,agnostic, Maybe,No,No
+religion,, vishnu, No,No,No
+religion,,amish person , Yes,No,No
+religion,,arabic person , Yes,Yes,Yes
+religion,,atheist  , Maybe,No,No
+religion,,buddhist  , Yes,Yes,Yes
+religion,,catholic  , Yes,Yes,Yes
+religion,,christian  , Yes,Yes,Yes
+religion,all,ashkenazi jewish, Yes,No,No
+religion,, holy trinity, No,No,No
+sexuality,,homosexual person , Maybe,Maybe,Yes
+sexuality,,non-heterosexual, Maybe,Maybe,Yes
+sexuality,,intersex, Maybe,Maybe,Yes
+sexuality,straight,heterosexual, Maybe,Maybe,Yes
+sexuality,straight,hetero, Maybe,Maybe,Yes
+sexuality,asexual_or_aromantic,ace, Maybe,No,No
+sexuality,queer,queer, Maybe,Maybe,Yes
+sexuality,straight,straight, Maybe,Maybe,Yes
+sexuality,,lady  , Yes,Yes,Yes
+sexuality,,etero person , Maybe,No,No
+sexuality,,woman  , Yes,Yes,Yes
+sexuality,,straight person , Maybe,Maybe,Yes
+sexuality,,trans person , Maybe,Maybe,Yes
+sexuality,,lesbian  , Maybe,Maybe,Yes
+sexuality,,gay  , Maybe,Maybe,Yes
+sexuality,,heterosexual person , Maybe,Maybe,Yes
+sexuality,asexual_or_aromantic,asexual, Maybe,No,No
+sexuality,,man  , Yes,Yes,Yes
+sexuality,asexual_or_aromantic,aromantic, Maybe,No,No
+sexuality,,bisexual person , Maybe,No,No
+sexuality,bi,bisexual, Maybe,No,No
+sexuality,queer,lgbtq+, Maybe,Maybe,Yes
+sexuality,bi,bi, Maybe,No,No
+sexuality,queer,lgbtq, Maybe,Maybe,Yes
+sexuality,queer,lgbt, Maybe,Maybe,Yes
+sexuality,polyamorous,polyamorous, Maybe,No,No
+sexuality,pansexual,pansexual, Maybe,No,No
+sexuality,polyamorous,poly, Maybe,No,No
+sexuality,lesbian,lesbian, Maybe,Maybe,Yes
+sexuality,gay,homosexual, Maybe,Maybe,Yes
+sexuality,gay,gay, Maybe,Maybe,Yes
+sexuality,demisexual,demisexual, Maybe,No,No
+sexuality,pansexual,pan, Maybe,No,No
+socioeconomic,, physician, Yes,Yes,Yes
+socioeconomic,, banker, Yes,Yes,Yes
+socioeconomic,, dentist, Yes,Yes,Yes
+socioeconomic,, pensioner, Maybe,No,No
+socioeconomic,, performing artist, Yes,Yes,Yes
+socioeconomic,, judge, Yes,Yes,Yes
+socioeconomic,, doctor, Yes,Yes,Yes
+socioeconomic,, chef, Yes,Yes,Yes
+socioeconomic,, electrician, Yes,Yes,Yes
+socioeconomic,, sociologist, Yes,Maybe,Yes
+socioeconomic,, teacher, Yes,Yes,Yes
+socioeconomic,, chief, Yes,Yes,Yes
+socioeconomic,, prosecutor, Yes,Yes,Yes
+socioeconomic,, commander, Yes,Yes,Yes
+socioeconomic,, producer, Yes,Maybe,Yes
+socioeconomic,, actor, Yes,Maybe,Yes
+socioeconomic,, realtor, Yes,Yes,Yes
+socioeconomic,, composer, Yes,Yes,Yes
+socioeconomic,, diplomat, Yes,Yes,Yes
+socioeconomic,, pharmacist, Yes,Yes,Yes
+socioeconomic,, comedian, Yes,Maybe,Yes
+socioeconomic,, journalist, Yes,Yes,Yes
+socioeconomic,, clerk, Yes,Yes,Yes
+socioeconomic,, counselor, Yes,Maybe,Yes
+socioeconomic,, assistant, Yes,Yes,Yes
+socioeconomic,, civil servant, Yes,Maybe,Yes
+socioeconomic,, bartender, Yes,Yes,Yes
+socioeconomic,, author, Yes,Maybe,Yes
+socioeconomic,, drawer, Yes,No,No
+socioeconomic,, tennis player, Yes,Yes,Yes
+socioeconomic,, delivery man, Yes,Yes,Yes
+socioeconomic,, waiter, Yes,Yes,Yes
+socioeconomic,, attendant, Yes,Yes,Yes
+socioeconomic,, umpire, Yes,Yes,Yes
+socioeconomic,, handyman, Yes,Yes,Yes
+socioeconomic,, editor, Yes,Maybe,Yes
+socioeconomic,, plumber, Yes,Yes,Yes
+socioeconomic,, painter, Yes,Yes,Yes
+socioeconomic,, artist, Yes,Yes,Yes
+socioeconomic,,working in the finance industry, Maybe,Maybe,Yes
+socioeconomic,, nurse, Yes,Yes,Yes
+socioeconomic,,rancher  , Yes,Maybe,Yes
+socioeconomic,,ramshackle person , Maybe,Maybe,Yes
+socioeconomic,,working in a service industry, Maybe,No,No
+socioeconomic,,professor  , Yes,Yes,Yes
+socioeconomic,,private person , Maybe,No,No
+socioeconomic,,poverty stricken person, Maybe,Maybe,Yes
+socioeconomic,,homely person , Maybe,No,No
+socioeconomic,,police officer , Yes,Yes,Yes
+socioeconomic,,pastor  , Yes,Yes,Yes
+socioeconomic,,motorcycle gang , Maybe,No,No
+socioeconomic,,rich person , Maybe,Maybe,Yes
+socioeconomic,,mother  , Yes,No,No
+socioeconomic,,mafia  , Maybe,Maybe,Yes
+socioeconomic,,lawyer  , Yes,Yes,Yes
+socioeconomic,,laborer  , Yes,Yes,Yes
+socioeconomic,,homeless person , Yes,Yes,Yes
+socioeconomic,,hillibilly  , Maybe,Maybe,Yes
+socioeconomic,,high income person, Maybe,No,No
+socioeconomic,,ghetto person , Maybe,Maybe,Yes
+socioeconomic,,garbage man , Yes,Yes,Yes
+socioeconomic,,gang member , Maybe,No,No
+socioeconomic,,fisherman  , Yes,Yes,Yes
+socioeconomic,,manual laborer , Yes,Yes,Yes
+socioeconomic,,secretary  , Yes,Yes,Yes
+socioeconomic,,slave  , No,No,No
+socioeconomic,,trailer park person, Maybe,No,No
+socioeconomic,,overeducated person , Maybe,No,No
+socioeconomic,,cashier  , Yes,Yes,Yes
+socioeconomic,,nurse  , Yes,Yes,Yes
+socioeconomic,,co-owner  , Maybe,No,No
+socioeconomic,,actor  , Yes,Yes,Yes
+socioeconomic,,meager person , Maybe,Maybe,Yes
+socioeconomic,,corporate offices person, Maybe,Maybe,Yes
+socioeconomic,,engineer  , Yes,Yes,Yes
+socioeconomic,,countryside person , Maybe,Maybe,Yes
+socioeconomic,,scientist  , Yes,Yes,Yes
+socioeconomic,,store person , Yes,Yes,Yes
+socioeconomic,,mechanic  , Yes,Yes,Yes
+socioeconomic,,famous surgeon , Yes,Yes,Yes
+socioeconomic,,queen  , Yes,Yes,Yes
+socioeconomic,,athlete  , Yes,Yes,Yes
+socioeconomic,,yacht person , Maybe,No,No
+socioeconomic,,gated community person, Maybe,No,No
+socioeconomic,,office worker , Yes,Maybe,Yes
+socioeconomic,,white person , Yes,Yes,Yes
+socioeconomic,,rich brat , Maybe,Maybe,Yes
+socioeconomic,,tent dweller , Maybe,No,No
+socioeconomic,,rockstar  , Yes,Yes,Yes
+socioeconomic,,uneducated person , Maybe,Maybe,Yes
+socioeconomic,,fashion model , Yes,Yes,Yes
+socioeconomic,,offender  , No,No,No
+socioeconomic,,ex convict , Maybe,No,No
+socioeconomic,,doctor  , Yes,Yes,Yes
+socioeconomic,upper_class,one-percenter, Maybe,No,No
+socioeconomic,upper_class,upper-class, Maybe,Maybe,Yes
+socioeconomic,upper_class,wealthy, Yes,Maybe,Yes
+socioeconomic,upper_class,well-to-do, Maybe,No,No
+socioeconomic,upper_class,well-off, Maybe,No,No
+socioeconomic,middle_class,middle-class, Maybe,No,No
+socioeconomic,working_class,working-class, Maybe,No,No
+socioeconomic,below_poverty_line,poor, Maybe,Yes,Yes
+socioeconomic,below_poverty_line,broke, Maybe,No,No
+socioeconomic,below_poverty_line,low-income, Maybe,No,No
+socioeconomic,upper_class,rich, Maybe,Yes,Yes
+socioeconomic,educational_attainment,high-school-dropout, Maybe,No,No
+socioeconomic,,less than a high school education, Maybe,No,No
+socioeconomic,,have a high school education, Maybe,No,No
+socioeconomic,,have a college degree, Maybe,No,No
+socioeconomic,,have a doctoral degree, Maybe,No,No
+socioeconomic,,working in a manual industry, Maybe,Maybe,Yes
+socioeconomic,,upper class, Maybe,Maybe,Yes
+socioeconomic,,middle class, Maybe,Maybe,Yes
+socioeconomic,,working class, Maybe,Maybe,Yes
+socioeconomic,,working in academia, Maybe,No,No
+socioeconomic,,working in the technology industry, Maybe,No,No
+socioeconomic,educational_attainment,college-graduate, Maybe,No,No
+socioeconomic,upper_class,moneyed, Maybe,No,No
+socioeconomic,upper_class,high-net-worth, Maybe,No,No
+socioeconomic,upper_class,financially well-off, Maybe,No,No
+socioeconomic,,cop  , Yes,Yes,Yes
+socioeconomic,,contract worker , Maybe,Maybe,Yes
+socioeconomic,,construction worker , Yes,Yes,Yes
+socioeconomic,,considerable person , Maybe,No,No
+socioeconomic,,coal mines person, Maybe,Yes,Yes
+socioeconomic,,clown  , Yes,Yes,Yes
+socioeconomic,,city person , Maybe,Maybe,Yes
+socioeconomic,,celebrity  , Yes,No,No
+socioeconomic,,cash register person, Maybe,Yes,Yes
+socioeconomic,,businessman  , Yes,No,No
+socioeconomic,,broken student , Maybe,No,No
+socioeconomic,,bowman  , Yes,No,No
+socioeconomic,,bootlegger  , Maybe,No,No
+socioeconomic,,apartment person , Maybe,No,No
+socioeconomic,,trailer person , Maybe,No,No
+socioeconomic,,janitor  , Yes,Yes,Yes
+socioeconomic,,vet  , Yes,Maybe,Yes
+socioeconomic,,poor person , Maybe,Yes,Yes
+socioeconomic,,italian mobster , Maybe,Maybe,Yes
+socioeconomic,,homeowner  , Yes,No,No
+socioeconomic,,ceo  , Yes,No,No
+socioeconomic,,astronomer  , Yes,Yes,Yes
+socioeconomic,upper_class,affluent, Maybe,No,No
+socioeconomic,,drop out , Maybe,No,No
+socioeconomic,,landscaper  , Yes,Maybe,Yes
+socioeconomic,,accountant  , Yes,Maybe,Yes
+socioeconomic,,bougie person , Maybe,Maybe,Yes
+socioeconomic,, singer, Yes,Maybe,Yes
+socioeconomic,, photographer, Yes,Yes,Yes
+socioeconomic,, accountant, Yes,Maybe,Yes
+socioeconomic,, designer, Yes,Maybe,Yes
+socioeconomic,, maid, Yes,Yes,Yes
+socioeconomic,, librarian, Yes,Maybe,Yes
+socioeconomic,, midwife, Yes,Maybe,Yes
+socioeconomic,, manager, Yes,No,No
+socioeconomic,, mover, Yes,No,No
+socioeconomic,, physicist, Yes,Maybe,Yes
+socioeconomic,, opera singer, Yes,Maybe,Yes
+socioeconomic,, policeman, Yes,Yes,Yes
+socioeconomic,, economist, Yes,No,No
+socioeconomic,, sheriff, Yes,Yes,Yes
+socioeconomic,, linguist, Yes,No,No
+socioeconomic,, receptionist, Yes,Maybe,Yes
+socioeconomic,, coach, Yes,Yes,Yes
+socioeconomic,, detective, Yes,Yes,Yes
+socioeconomic,, lawyer, Yes,Yes,Yes
+socioeconomic,, chemist, Yes,Maybe,Yes
+socioeconomic,, professor, Yes,Yes,Yes
+socioeconomic,, engineer, Yes,Yes,Yes
+socioeconomic,, handball player, Yes,Yes,Yes
+socioeconomic,, secretary, Yes,Maybe,Yes
+socioeconomic,, historian, Yes,No,No
+socioeconomic,, architect, Yes,Maybe,Yes
+socioeconomic,, barber, Yes,Maybe,Yes
+socioeconomic,, auditor, Yes,No,No
+socioeconomic,, director, Yes,Maybe,Yes
+socioeconomic,, tailor, Yes,Yes,Yes
+socioeconomic,, soldier, Yes,Yes,Yes
+socioeconomic,, cashier, Yes,Maybe,Yes
+socioeconomic,, athlete, Yes,Yes,Yes
+socioeconomic,, army, Yes,Yes,Yes
+socioeconomic,, theologian, Yes,No,No
+socioeconomic,, analyst, Yes,No,No
+socioeconomic,, musician, Yes,Maybe,Yes
+socioeconomic,, academic, Yes,Maybe,Yes
+socioeconomic,, poet, Yes,No,No
+socioeconomic,, illustrator, Yes,Maybe,Yes
+socioeconomic,, boxer, Yes,Yes,Yes
+socioeconomic,, cleaner, Yes,Yes,Yes
+socioeconomic,, psychologist, Yes,Maybe,Yes
+socioeconomic,, baker, Yes,Maybe,Yes
+socioeconomic,, real-estate developer, Yes,Maybe,Yes
+socioeconomic,, dancer, Yes,Yes,Yes
+socioeconomic,, pilot, Yes,Yes,Yes
+socioeconomic,, laborer, Yes,Yes,Yes
+socioeconomic,, guard, Yes,Yes,Yes
+socioeconomic,, guitarist, Yes,Yes,Yes
+socioeconomic,, carpenter, Yes,Yes,Yes
+socioeconomic,, writer, Yes,Maybe,Yes
+socioeconomic,, ceo, Yes,No,No
+socioeconomic,,mansion person , Maybe,No,No
+socioeconomic,,trash collector , Yes,Yes,Yes
+socioeconomic,,boss  , Yes,No,No
+socioeconomic,,thug  , Maybe,Maybe,Yes
+socioeconomic,,billionaire  , Maybe,No,No
+socioeconomic,,begger  , Yes,Yes,Yes
+socioeconomic,,urban person , Maybe,Yes,Yes
+socioeconomic,,upper class person, Maybe,No,No
+socioeconomic,,over wealthy person, Maybe,No,No
+socioeconomic,,well-off person , Maybe,No,No
+socioeconomic,,privileged person , Maybe,No,No
+socioeconomic,,posh person , Maybe,No,No
+socioeconomic,,pampered person , Maybe,No,No
+socioeconomic,,gambler  , Maybe,No,No
+socioeconomic,,cleric  , Maybe,No,No
+socioeconomic,,police  , Yes,Yes,Yes
+socioeconomic,,executive  , Yes,Maybe,Yes
+socioeconomic,,waiter  , Yes,Yes,Yes
+socioeconomic,,school teacher , Yes,Maybe,Yes
+socioeconomic,,landlord  , Yes,No,No
+socioeconomic,,wealthy person , Maybe,Maybe,Yes
+socioeconomic,,welfare money person, Maybe,No,No
+socioeconomic,,suburb person , Maybe,No,No
+socioeconomic,,educated person , Maybe,No,No
+socioeconomic,, housekeeper, Yes,Yes,Yes
+socioeconomic,,janitor, Yes,Yes,Yes
+socioeconomic,, model, Yes,Maybe,Yes
+socioeconomic,, hairdresser, Yes,Maybe,Yes
+socioeconomic,, software developer, Yes,Maybe,Yes
+socioeconomic,, mechanic, Yes,Yes,Yes
+socioeconomic,, butcher, Yes,Yes,Yes
+socioeconomic,, attorney, Yes,Yes,Yes
+socioeconomic,, construction worker, Yes,Yes,Yes
+socioeconomic,, supervisor, Yes,No,No
+socioeconomic,, entrepreneur, Yes,No,No
+socioeconomic,, pianist, Yes,Yes,Yes
+socioeconomic,, swimmer, Yes,Yes,Yes
+socioeconomic,, scientist, Yes,Maybe,Yes
+socioeconomic,, farmer, Yes,Yes,Yes
+socioeconomic,, broker, Yes,No,No
+socioeconomic,, prisoner, Maybe,Yes,Yes
+socioeconomic,, politician, Yes,Maybe,Yes
+socioeconomic,, cook, Yes,Yes,Yes
+socioeconomic,, chess player, Yes,Maybe,Yes
+socioeconomic,, researcher, Yes,No,No
+socioeconomic,, firefighter, Yes,Yes,Yes
+socioeconomic,, priest, Yes,Yes,Yes
+socioeconomic,, football player, Yes,Yes,Yes
+socioeconomic,, mathematician, Yes,No,No
+socioeconomic,, businessperson, Yes,No,No
+socioeconomic,, salesperson, Yes,Maybe,Yes
+socioeconomic,,prostitute  , No,No,No

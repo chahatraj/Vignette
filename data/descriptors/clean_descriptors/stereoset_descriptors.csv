@@ -1,0 +1,328 @@
+﻿axis,descriptor
+gender_and_sex,female
+gender_and_sex,man
+gender_and_sex,stepmother
+gender_and_sex,woman
+gender_and_sex,he
+gender_and_sex,stepfather
+gender_and_sex,him
+gender_and_sex,daddy
+gender_and_sex,bride
+gender_and_sex,mother
+gender_and_sex,ladies
+gender_and_sex,boy
+gender_and_sex,sir
+gender_and_sex,groom
+gender_and_sex,schoolboy
+gender_and_sex,grandmother
+gender_and_sex,male
+gender_and_sex,gentleman
+gender_and_sex,husband
+gender_and_sex,gentleman
+gender_and_sex,son
+gender_and_sex,girl
+gender_and_sex,girlfriend
+gender_and_sex,sister
+gender_and_sex,lady
+gender_and_sex,father
+gender_and_sex,ma'am
+gender_and_sex,schoolgirl
+gender_and_sex,boyfriend
+gender_and_sex,grandfather
+gender_and_sex,daughter
+gender_and_sex,mommy
+gender_and_sex,wife
+gender_and_sex,brother
+socioeconomic,janitor
+socioeconomic, salesperson
+socioeconomic, model
+socioeconomic, businessperson
+socioeconomic, mathematician
+socioeconomic, football player
+socioeconomic, priest
+socioeconomic, firefighter
+socioeconomic, researcher
+socioeconomic, chess player
+socioeconomic, cook
+socioeconomic, politician
+socioeconomic, prisoner
+socioeconomic, broker
+socioeconomic, farmer
+socioeconomic, scientist
+socioeconomic, swimmer
+socioeconomic, pianist
+socioeconomic, entrepreneur
+socioeconomic, supervisor
+socioeconomic, construction worker
+socioeconomic, attorney
+socioeconomic, butcher
+socioeconomic, mechanic
+socioeconomic, software developer
+socioeconomic, hairdresser
+socioeconomic, CEO
+socioeconomic, writer
+socioeconomic, carpenter
+socioeconomic, guitarist
+socioeconomic, engineer
+socioeconomic, professor
+socioeconomic, chemist
+socioeconomic, lawyer
+socioeconomic, detective
+socioeconomic, coach
+socioeconomic, receptionist
+socioeconomic, linguist
+socioeconomic, sheriff
+socioeconomic, economist
+socioeconomic, handball player
+socioeconomic, policeman
+socioeconomic, physicist
+socioeconomic, mover
+socioeconomic, manager
+socioeconomic, midwife
+socioeconomic, librarian
+socioeconomic, maid
+socioeconomic, designer
+socioeconomic, accountant
+socioeconomic, photographer
+socioeconomic, singer
+socioeconomic, opera singer
+socioeconomic, secretary
+socioeconomic, historian
+socioeconomic, architect
+socioeconomic, guard
+socioeconomic, laborer
+socioeconomic, pilot
+socioeconomic, dancer
+socioeconomic, real-estate developer
+socioeconomic, baker
+socioeconomic, psychologist
+socioeconomic, cleaner
+socioeconomic, boxer
+socioeconomic, illustrator
+socioeconomic, poet
+socioeconomic, academic
+socioeconomic, musician
+socioeconomic, analyst
+socioeconomic, theologian
+socioeconomic, army
+socioeconomic, athlete
+socioeconomic, cashier
+socioeconomic, soldier
+socioeconomic, tailor
+socioeconomic, director
+socioeconomic, auditor
+socioeconomic, barber
+socioeconomic, nurse
+socioeconomic, housekeeper
+socioeconomic, artist
+socioeconomic, comedian
+socioeconomic, actor
+socioeconomic, commander
+socioeconomic, prosecutor
+socioeconomic, electrician
+socioeconomic, chief
+socioeconomic, teacher
+socioeconomic, sociologist
+socioeconomic, realtor
+socioeconomic, chef
+socioeconomic, banker
+socioeconomic, doctor
+socioeconomic, judge
+socioeconomic, performing artist
+socioeconomic, pensioner
+socioeconomic, physician
+socioeconomic, dentist
+socioeconomic, producer
+socioeconomic, composer
+socioeconomic, painter
+socioeconomic, pharmacist
+socioeconomic, plumber
+socioeconomic, editor
+socioeconomic, handyman
+socioeconomic, umpire
+socioeconomic, attendant
+socioeconomic, waiter
+socioeconomic, delivery man
+socioeconomic, tennis player
+socioeconomic, drawer
+socioeconomic, author
+socioeconomic, bartender
+socioeconomic, diplomat
+socioeconomic, civil servant
+socioeconomic, assistant
+socioeconomic, counselor
+socioeconomic, clerk
+socioeconomic, journalist
+race_ethnicity_color,Afghanistan
+race_ethnicity_color, Irish
+race_ethnicity_color, Italy
+race_ethnicity_color, Africa
+race_ethnicity_color, Yemeni
+race_ethnicity_color, Syrian
+race_ethnicity_color, Japan
+race_ethnicity_color, Brazil
+race_ethnicity_color, Kenyan
+race_ethnicity_color, Pakistan
+race_ethnicity_color, Mexico
+race_ethnicity_color, Ireland
+race_ethnicity_color, Iraq
+race_ethnicity_color, Nigerian
+race_ethnicity_color, African Americans
+race_ethnicity_color, Arab
+race_ethnicity_color, Iraqi
+race_ethnicity_color, Egypt
+race_ethnicity_color, British
+race_ethnicity_color, Mexican
+race_ethnicity_color, Saudi Arabian
+race_ethnicity_color, Russia
+race_ethnicity_color, African
+race_ethnicity_color, Somali
+race_ethnicity_color, France
+race_ethnicity_color, Bangladesh
+race_ethnicity_color, Iranian
+race_ethnicity_color, Pakistani
+race_ethnicity_color, Kenya
+race_ethnicity_color, Russian
+race_ethnicity_color, Hispanic
+race_ethnicity_color, Germany
+race_ethnicity_color, Italian
+race_ethnicity_color, China
+race_ethnicity_color, Iran
+race_ethnicity_color, Guatemala
+race_ethnicity_color, Ethiopia
+race_ethnicity_color, Ghanaian
+race_ethnicity_color, Columbian
+race_ethnicity_color, Ethiopian
+race_ethnicity_color, Afghan
+race_ethnicity_color, Scottish
+race_ethnicity_color, Chinese
+race_ethnicity_color, Cameroon
+race_ethnicity_color, Venezuela
+race_ethnicity_color, Qatar
+race_ethnicity_color, White people
+race_ethnicity_color, Yemen
+race_ethnicity_color, Syria
+race_ethnicity_color, Columbia
+race_ethnicity_color, Native American
+race_ethnicity_color, Swedish
+race_ethnicity_color, Japanese
+race_ethnicity_color, Brazilian
+race_ethnicity_color, Britain
+race_ethnicity_color, Albania
+race_ethnicity_color, Norway
+race_ethnicity_color, Australia
+race_ethnicity_color, Paraguay
+race_ethnicity_color, Scotland
+race_ethnicity_color, Jordanian
+race_ethnicity_color, Korea
+race_ethnicity_color, Ecuador
+race_ethnicity_color, Sudanese
+race_ethnicity_color, Ukraine
+race_ethnicity_color, Romania
+race_ethnicity_color, Austria
+race_ethnicity_color, India
+race_ethnicity_color, Guatemalan
+race_ethnicity_color, Turkey
+race_ethnicity_color, Crimea
+race_ethnicity_color, European
+race_ethnicity_color, Indonesian
+race_ethnicity_color, Poland
+race_ethnicity_color, Sudan
+race_ethnicity_color, Romanian
+race_ethnicity_color, Sweden
+race_ethnicity_color, German
+race_ethnicity_color, Argentian
+race_ethnicity_color, South Africa
+race_ethnicity_color, Dutch people
+race_ethnicity_color, South African
+race_ethnicity_color, French
+race_ethnicity_color, Venezuelan
+race_ethnicity_color, Saudi Arabia
+race_ethnicity_color, Jordan
+race_ethnicity_color, Lebanon
+race_ethnicity_color, Eritrean
+race_ethnicity_color, Peru
+race_ethnicity_color, Egyptian
+race_ethnicity_color, Indian
+race_ethnicity_color, Liberia
+race_ethnicity_color, Puerto Rican
+race_ethnicity_color, Norweigan
+race_ethnicity_color, Puerto Rico
+race_ethnicity_color, Korean
+race_ethnicity_color, Chile
+race_ethnicity_color, Paraguayan
+race_ethnicity_color, Moroccan
+race_ethnicity_color, Vietnamese
+race_ethnicity_color, Persian people
+race_ethnicity_color, Greece
+race_ethnicity_color, Turkish
+race_ethnicity_color, Sierra Leon
+race_ethnicity_color, Vietnam
+race_ethnicity_color, Sierra Leonean
+race_ethnicity_color, Qatari
+race_ethnicity_color, Spanish
+race_ethnicity_color, Somalia
+race_ethnicity_color, Argentina
+race_ethnicity_color, Australian
+race_ethnicity_color, Spain
+race_ethnicity_color, Lebanese
+race_ethnicity_color, Indonesia
+race_ethnicity_color, Finnish
+race_ethnicity_color, Ecuadorian
+race_ethnicity_color, Bengali
+race_ethnicity_color, Laos
+race_ethnicity_color, Europe
+race_ethnicity_color, Finland
+race_ethnicity_color, Portuguese
+race_ethnicity_color, Ukrainian
+race_ethnicity_color, Albanian
+race_ethnicity_color, Liberian
+race_ethnicity_color, Portugal
+race_ethnicity_color, Bolivia
+race_ethnicity_color, Oman
+race_ethnicity_color, Cameroonian
+race_ethnicity_color, Greek
+race_ethnicity_color, Austrian
+race_ethnicity_color, Taiwanese
+race_ethnicity_color, Nepal
+race_ethnicity_color, Ghana
+race_ethnicity_color, Eriteria
+race_ethnicity_color, Omani
+race_ethnicity_color, Singaporean
+race_ethnicity_color, Polish
+race_ethnicity_color, Taiwan
+race_ethnicity_color, Morocco
+race_ethnicity_color, Bolivian
+race_ethnicity_color, Laotian
+race_ethnicity_color, Peruvian
+race_ethnicity_color, Chilean
+race_ethnicity_color, Crimean
+race_ethnicity_color, Netherlands
+race_ethnicity_color, Cape Verdean
+race_ethnicity_color, Nepali
+race_ethnicity_color, Singapore
+race_ethnicity_color, Cape Verde
+religion,Jihad
+religion, Muslim
+religion, Holy Trinity
+religion, Quran
+religion, Trinity
+religion, Sanskrit
+religion, Mecca
+religion, Islam
+religion, baptize
+religion, Mohammed
+religion, Sharia
+religion, church
+religion, Jesus
+religion, Christ
+religion, Messiah
+religion, Vishnu
+religion, Hajj
+religion, Bible
+religion, Christian
+religion, Reincarnation
+religion, Hindu
+religion, Brahmin
+religion, Ten Commandments
+religion, Shiva

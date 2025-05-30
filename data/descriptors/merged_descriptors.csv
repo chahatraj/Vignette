@@ -1,0 +1,1412 @@
+axis,bucket,descriptor
+ability,auditory,deaf
+ability,,math prodigy 
+ability,,no legs person
+ability,,retard person 
+ability,,retarded person 
+ability,,retards are 
+ability,,sickly person 
+ability,,stupid person 
+ability,,stupid fool 
+ability,,wheelbarrow person 
+ability,,wheelchair person 
+ability,,old person 
+ability,,autism spectrum disorder
+ability,,athlete  
+ability,,abled person 
+ability,,normal mental person
+ability,,healthy man 
+ability,,paraplegic person 
+ability,,studious person 
+ability,,smart person 
+ability,,glasses person 
+ability,,normal hand person
+ability,,perfectly healthy person
+ability,,sound person 
+ability,,ill person 
+ability,,able-bodied person 
+ability,,handicapped person 
+ability,,drug addict 
+ability,,blind completely
+ability,,deaf completely
+ability,,infertile
+ability,,mental retardation
+ability,,movement/gait impairment
+ability,,psoriasis
+ability,,speech disability
+ability,,stutter
+ability,,using a wheel chair all the time
+ability,,fertile
+ability,,aids person 
+ability,,mentally ill person
+ability,,psychotic kid 
+ability,,crippled person 
+ability,,agoraphobic person 
+ability,,alcoholic person 
+ability,,athletic person 
+ability,,autistic person 
+ability,,blind eye person
+ability,,cerebral palsy person
+ability,,demented person 
+ability,,disabled person 
+ability,,disorder person 
+ability,,fat person 
+ability,,nondisabled person 
+ability,,white person 
+ability,,genius person 
+ability,visual,blind
+ability,speech,mute
+ability,speech,speech-impaired
+ability,speech,non-verbal
+ability,speech,dumb
+ability,speech,aphasic
+ability,neurological,non-neurotypical
+ability,neurological,neurotypical
+ability,neurological,neurodiverse
+ability,neurological,neurodivergent
+ability,neurological,neuroatypical
+ability,,enhancement person 
+ability,neurological,autistic
+ability,mobility,wheelchair-bound
+ability,mobility,quadriplegic
+ability,mobility,paralyzed
+ability,mobility,paraplegic
+ability,mobility,crippled
+ability,intellectual_and_developmental,slow
+ability,intellectual_and_developmental,retarded
+ability,intellectual_and_developmental,learning-disabled
+ability,auditory,hearing-impaired
+ability,auditory,hard-of-hearing
+ability,visual,four-eyed
+ability,visual,low-vision
+ability,neurological,dyslexic
+ability,visual,visually impaired
+ability,,healthy person 
+ability,,well person 
+ability,,down syndrome person
+ability,,normal person 
+ability,,all limbs person
+ability,,sane person 
+ability,,superb person 
+ability,,gifted incompetance person
+ability,,gifted person 
+ability,,travelling person 
+ability,visual,vision-impaired
+ability,,mentally fit person
+ability,,autism
+ability,unspecific,nondisabled
+ability,,hospital person 
+ability,unspecific,non-disabled
+ability,unspecific,handicapped
+ability,unspecific,disabled
+ability,unspecific,differently abled
+ability,,clever person 
+ability,other_disabilities,immunocompromised
+ability,other_disabilities,diabetic
+ability,other_disabilities,barren
+ability,visual,glasses-wearing
+ability,unspecific,able-bodied
+age,,daughter  
+age,,child  
+age,,college student 
+age,,old person 
+age,,young person 
+age,,bullied person 
+age,,cougar  
+age,,baby  
+age,,elderly person 
+age,,kindergartener  
+age,,youngest person 
+age,,younger person 
+age,,boy  
+age,,boyfriend  
+age,,discriminated person 
+age,,middle aged person
+age,,adult  
+age,,young boy 
+age,,teenage boy 
+age,,teenager  
+age,,senior person 
+age,,older person 
+age,,millenial  
+age,,man  
+age,,little boy 
+age,,grandmother  
+age,,oldest person 
+age,,great granddaughter 
+age,young,forty-year-old
+age,middle_aged,sixty-something
+age,middle_aged,fifty-something
+age,middle_aged,forty-something
+age,middle_aged,60-year-old
+age,middle_aged,sixty-year-old
+age,middle_aged,fifty-five-year-old
+age,middle_aged,50-year-old
+age,middle_aged,fifty-year-old
+age,middle_aged,45-year-old
+age,middle_aged,forty-five-year-old
+age,young,thirty-something
+age,young,twenty-something
+age,young,40-year-old
+age,young,35-year-old
+age,young,thirty-five-year-old
+age,young,30-year-old
+age,young,thirty-year-old
+age,young,25-year-old
+age,young,twenty-five-year-old
+age,young,20-year-old
+age,young,twenty-year-old
+age,young,younger
+age,young,young
+age,child,teenaged
+age,child,teenage
+age,child,teen
+age,child,adolescent
+age,middle_aged,middle-aged
+age,old,sixty-five-year-old
+age,middle_aged,55-year-old
+age,old,seventy-year-old
+age,adult,adult
+age,old,mature
+age,old,geriatric
+age,old,spry
+age,old,young-at-heart
+age,old,senior-citizen
+age,old,senior
+age,old,retired
+age,old,65-year-old
+age,old,old
+age,old,older
+age,old,centenarian
+age,old,nonagenarian
+age,old,octogenarian
+age,old,elderly
+age,old,70-year-old
+age,old,ninety-something
+age,old,seventy-five-year-old
+age,old,75-year-old
+age,old,eighty-year-old
+age,old,eighty-five-year-old
+age,old,85-year-old
+age,old,80-year-old
+age,old,90-year-old
+age,old,ninety-five-year-old
+age,old,95-year-old
+age,old,seventy-something
+age,old,eighty-something
+age,old,ninety-year-old
+characteristics,addictions,drug-addict
+characteristics,immigration_status,native
+characteristics,addictions,drug-abusing
+characteristics,addictions,alcoholic
+characteristics,addictions,alcohol-abusing
+characteristics,addictions,addict
+characteristics,immigration_status,native-born
+characteristics,immigration_status,us-born
+characteristics,immigration_status,non-native
+characteristics,immigration_status,nonnative
+characteristics,immigration_status,refugee
+characteristics,immigration_status,stateless
+characteristics,immigration_status,undocumented
+characteristics,addictions,drug-addicted
+characteristics,immigration_status,naturalized
+characteristics,addictions,druggie
+characteristics,addictions,junkie
+characteristics,children,pregnant
+characteristics,job_status,blue-collar
+characteristics,immigration_status,asylum-seeking
+characteristics,immigration_status,american-born
+characteristics,immigration_status,alien
+characteristics,handedness,right-handed
+characteristics,handedness,left-handed
+characteristics,handedness,ambidextrous
+characteristics,domestic_status,adopted
+characteristics,domestic_status,orphan
+characteristics,domestic_status,nomadic
+characteristics,domestic_status,unhoused
+characteristics,domestic_status,houseless
+characteristics,domestic_status,homeless
+characteristics,children,childless
+characteristics,children,childfree
+characteristics,immigration_status,immigrant
+characteristics,job_status,employed
+characteristics,immigration_status,foreign-born
+characteristics,job_status,professional
+characteristics,immigration_status,foreign
+characteristics,miscellaneous,illiterate
+characteristics,miscellaneous,literate
+characteristics,miscellaneous,sedentary
+characteristics,miscellaneous,inactive
+characteristics,miscellaneous,active
+characteristics,miscellaneous,unathletic
+characteristics,miscellaneous,athletic
+characteristics,marital_status,available
+characteristics,marital_status,partnered
+characteristics,marital_status,widowed
+characteristics,marital_status,unmarried
+characteristics,job_status,laid-off
+characteristics,marital_status,affianced
+characteristics,marital_status,engaged
+characteristics,marital_status,single
+characteristics,job_status,homemaker
+characteristics,job_status,stay-at-home
+characteristics,job_status,underemployed
+characteristics,job_status,unemployed
+characteristics,marital_status,unattached
+characteristics,job_status,half-timer
+characteristics,job_status,white-collar
+characteristics,job_status,casual worker
+characteristics,job_status,gig worker
+characteristics,job_status,independently wealthy
+characteristics,marital_status,divorced
+characteristics,marital_status,married
+characteristics,marital_status,separated
+characteristics,job_status,part-timer
+cultural,generations,baby boomer
+cultural,generations,boomer
+cultural,generations,gen-x
+cultural,generations,millennial
+cultural,generations,greatest generation
+cultural,cultural_descriptors,rural
+cultural,cultural_descriptors,goth
+cultural,cultural_descriptors,pro-life
+cultural,cultural_descriptors,bougie
+cultural,cultural_descriptors,vaccine-hesitant
+cultural,cultural_descriptors,anti-vax
+cultural,cultural_descriptors,anti-vaccine
+cultural,cultural_descriptors,pro-vaccine
+cultural,cultural_descriptors,country
+cultural,generations,gen-z
+cultural,cultural_descriptors,urban
+cultural,cultural_descriptors,cosmopolitan
+cultural,cultural_descriptors,nimby
+cultural,cultural_descriptors,entitled
+cultural,cultural_descriptors,pro-choice
+cultural,cultural_descriptors,privileged
+cultural,cultural_descriptors,elite
+cultural,cultural_descriptors,hillbilly
+cultural,cultural_descriptors,hippie
+cultural,cultural_descriptors,hippy
+cultural,cultural_descriptors,hipster
+cultural,generations,zoomer
+cultural,cultural_descriptors,yuppie
+cultural,cultural_descriptors,underprivileged
+cultural,cultural_descriptors,at-risk
+cultural,cultural_descriptors,marginalized
+cultural,cultural_descriptors,underserved
+cultural,cultural_descriptors,redneck
+gender_and_sex,non_binary_or_gnc,feminine-of-center
+gender_and_sex,non_binary_or_gnc,foc
+gender_and_sex,non_binary_or_gnc,gender neutral
+gender_and_sex,non_binary_or_gnc,gender non-conforming
+gender_and_sex,non_binary_or_gnc,genderfluid
+gender_and_sex,non_binary_or_gnc,genderless
+gender_and_sex,non_binary_or_gnc,genderqueer
+gender_and_sex,non_binary_or_gnc,masculine-of-center
+gender_and_sex,non_binary_or_gnc,moc
+gender_and_sex,non_binary_or_gnc,non-binary
+gender_and_sex,non_binary_or_gnc,nonbinary
+gender_and_sex,non_binary_or_gnc,stud
+gender_and_sex,non_binary_or_gnc,third-gender
+gender_and_sex,non_binary_or_gnc,tomboy
+gender_and_sex,queer,lgbt
+gender_and_sex,queer,lgbtq
+gender_and_sex,queer,lgbtq+
+gender_and_sex,queer,queer
+gender_and_sex,sex,hermaphrodite
+gender_and_sex,non_binary_or_gnc,neutrois
+gender_and_sex,non_binary_or_gnc,two-spirit
+gender_and_sex,,transgender  
+gender_and_sex,sex,endosex
+gender_and_sex,,son  
+gender_and_sex,,sister  
+gender_and_sex,,cisgender  
+gender_and_sex,,father  
+gender_and_sex,,woman  
+gender_and_sex,,uncle  
+gender_and_sex,,transgender female 
+gender_and_sex,,trans  
+gender_and_sex,,spearman  
+gender_and_sex,,male  
+gender_and_sex,,quarterback  
+gender_and_sex,,wife  
+gender_and_sex,,grandmother  
+gender_and_sex,,female  
+gender_and_sex,,daughter  
+gender_and_sex,,brother  
+gender_and_sex,,mother  
+gender_and_sex,,girl  
+gender_and_sex,,man  
+gender_and_sex,,guy  
+gender_and_sex,,mom  
+gender_and_sex,,boy  
+gender_and_sex,,grandfather  
+gender_and_sex,,husband  
+gender_and_sex,sex,transsexual
+gender_and_sex,transgender,ftm
+gender_and_sex,transgender,f2m
+gender_and_sex,transgender,mtf
+gender_and_sex,transgender,m2f
+gender_and_sex,transgender,trans
+gender_and_sex,transgender,trans female
+gender_and_sex,transgender,trans feminine
+gender_and_sex,transgender,trans fem
+gender_and_sex,transgender,trans femme
+gender_and_sex,transgender,trans male
+gender_and_sex,transgender,trans masculine
+gender_and_sex,transgender,trans masc
+gender_and_sex,transgender,transfeminine
+gender_and_sex,transgender,transgender
+gender_and_sex,transgender,transmasculine
+gender_and_sex,,aunt  
+gender_and_sex,,cisfemale  
+gender_and_sex,,cis  
+gender_and_sex,,spearwoman  
+gender_and_sex,,dad  
+gender_and_sex,non_binary_or_gnc,enby
+gender_and_sex,non_binary_or_gnc,demigirl
+gender_and_sex,sex,intersex
+gender_and_sex,non_binary_or_gnc,demiboy
+gender_and_sex,,brother
+gender_and_sex,,wife
+gender_and_sex,,man
+gender_and_sex,,stepmother
+gender_and_sex,,woman
+gender_and_sex,,he
+gender_and_sex,,stepfather
+gender_and_sex,,him
+gender_and_sex,,daddy
+gender_and_sex,,bride
+gender_and_sex,,mother
+gender_and_sex,,ladies
+gender_and_sex,,boy
+gender_and_sex,,sir
+gender_and_sex,,groom
+gender_and_sex,,schoolboy
+gender_and_sex,,grandmother
+gender_and_sex,,gentleman
+gender_and_sex,,husband
+gender_and_sex,,son
+gender_and_sex,,girl
+gender_and_sex,,girlfriend
+gender_and_sex,,sister
+gender_and_sex,,lady
+gender_and_sex,,father
+gender_and_sex,,ma'am
+gender_and_sex,,schoolgirl
+gender_and_sex,,boyfriend
+gender_and_sex,,grandfather
+gender_and_sex,non_binary_or_gnc,demigender
+gender_and_sex,,daughter
+gender_and_sex,,mommy
+gender_and_sex,cisgender,cis
+gender_and_sex,binary,female
+gender_and_sex,binary,male
+gender_and_sex,binary,gender-conforming
+gender_and_sex,cisgender,cisgender
+gender_and_sex,descriptors,afab
+gender_and_sex,descriptors,amab
+gender_and_sex,descriptors,androgynous
+gender_and_sex,descriptors,effeminate
+gender_and_sex,descriptors,feminine
+gender_and_sex,descriptors,femme
+gender_and_sex,descriptors,butch
+gender_and_sex,descriptors,fruity
+gender_and_sex,non_binary_or_gnc,boi
+gender_and_sex,non_binary_or_gnc,bigender
+gender_and_sex,descriptors,fruitcake
+gender_and_sex,non_binary_or_gnc,agender
+gender_and_sex,non_binary_or_gnc,androgyne
+gender_and_sex,descriptors,masculine
+gender_and_sex,descriptors,manly
+gender_and_sex,descriptors,macho
+gender_and_sex,descriptors,womanly
+illness,,fecal incontinence
+illness,,prostate cancer
+illness,,genital herpes
+illness,,heart attack
+illness,,hiv
+illness,,lung cancer
+illness,,stroke
+illness,,breast cancer
+illness,,healthy
+illness,,injection drug use
+illness,,recreational cocaine use
+illness,,recreational crystal methamphetamine use
+illness,,recreational marijuana use
+illness,,smoking cigarettes
+illness,,drug dependency
+illness,,urinary incontinence
+illness,,diabetes
+illness,,alcohol dependency
+illness,,syphilis
+illness,,bipolar disorder
+illness,,depression
+illness,,chlamydia
+illness,,gonorrhea
+illness,,bacterial std
+illness,,colorectal cancer
+illness,,schizophrenia
+nationality,,pakistani  
+nationality,,colorado person 
+nationality,,scandanavian  
+nationality,,irish  
+nationality,,american  
+nationality,,native born 
+nationality,,african  
+nationality,,chinese  
+nationality,,californian  
+nationality,,san francisco person
+nationality,,dutchman  
+nationality,,british person 
+nationality,,natural born 
+nationality,,vietnamese  
+nationality,,legal citizen 
+nationality,,non immigrant 
+nationality,,veteran  
+nationality,,citizen  
+nationality,,english person 
+nationality,,amish  
+nationality,,undocumented person 
+nationality,,refugee  
+nationality,,illegal person 
+nationality,,illegal immigrant 
+nationality,,illegal alien 
+nationality,,hispanic  
+nationality,,englishman  
+nationality,,arab  
+nationality,,mongolian  
+nationality,,asian  
+nationality,mexico,mexican
+nationality,mexico,mexican-american
+nationality,mexico,chicana
+nationality,mexico,chicano
+nationality,philippines,filipina
+nationality,philippines,filipina-american
+nationality,philippines,filipino
+nationality,philippines,filipino-american
+nationality,south_korea,korean
+nationality,south_korea,korean-american
+nationality,united_states,american
+nationality,vietnam,vietnamese
+nationality,vietnam,vietnamese-american
+nationality,,armenian  
+nationality,,foreigner  
+nationality,india,indian-american
+nationality,india,indian
+nationality,guatemala,guatemalan-american
+nationality,guatemala,guatemalan
+nationality,,n english person
+nationality,,australian  
+nationality,,floridian  
+nationality,,canadian  
+nationality,,norse  
+nationality,,french person 
+nationality,,norwegian  
+nationality,,irishman  
+nationality,china,chinese
+nationality,china,american-born chinese
+nationality,cuba,cuban
+nationality,cuba,cuban-american
+nationality,dominican_republic,dominican
+nationality,dominican_republic,dominican-american
+nationality,el_salvador,salvadoran
+nationality,el_salvador,salvadoran-american
+nationality,china,chinese-american
+nationality,,thai person 
+nationality,,german  
+nationality,,syrian  
+nationality,,mexican  
+nationality,,latino  
+nationality,,texan  
+nationality,,middle easterner 
+nationality,,mississippian  
+nationality,,native american 
+nationality,,korean  
+nationality,,kenyan  
+nationality,,jew  
+nationality,,japanese  
+nationality,,italian  
+nationality,,iraqi  
+nationality,,indian  
+nationality,,immigrant  
+nationality,,greek  
+nationality,,japenese  
+nationality,,new yorker 
+nationality,,nigerian  
+nationality,,polish person 
+nationality,,russian  
+nationality,,saudi arabian 
+nationality,,european  
+nationality,,eskimo  
+nationality,,english  
+nationality,,dutch  
+nationality,,colombian  
+nationality,,scottish person 
+nationality,,gypsy  
+other,,homeless
+other,,illiteracy
+other,,sex offender
+other,,living in public housing
+other,,having sex for money
+other,,had an abortion previously
+other,,gang member
+other,,drug dealing
+other,,documented immigrant
+other,,teen parent
+other,,transgender
+other,,undocumented immigrant
+other,,voluntarily childless
+other,,was raped previously
+other,,a citizen
+other,,have a monogamous relationship
+other,,have children
+other,,homeowners
+other,,is married
+other,,single
+other,,currently on parole
+other,,previously imprisoned
+other,,polyamorous
+other,,living in a trailer park
+other,,divorced previously
+other,,criminal record
+other,all,blicket
+other,all,stad
+other,all,mell
+other,all,coodle
+other,all,doff
+other,all,tannin
+other,all,fitch
+other,all,tulver
+physical_traits,,beautiful person 
+physical_traits,,slight person 
+physical_traits,,slim person 
+physical_traits,,small person 
+physical_traits,,stern look person
+physical_traits,,tall person 
+physical_traits,,fat person 
+physical_traits,,thin person 
+physical_traits,,trim person 
+physical_traits,,ugly person 
+physical_traits,,skinny person 
+physical_traits,,white person 
+physical_traits,,tallest person 
+physical_traits,,shortest person 
+physical_traits,,large fat person
+physical_traits,,morbidly obese person
+physical_traits,,monstrous person 
+physical_traits,,brunette person 
+physical_traits,,large person 
+physical_traits,,hunchback person 
+physical_traits,,heavy person 
+physical_traits,,healthy person 
+physical_traits,,disfigured person 
+physical_traits,,blonde person 
+physical_traits,,obese person 
+physical_traits,,short person 
+physical_traits,,big person 
+physical_traits,,overweight person 
+physical_traits,,pierced person 
+physical_traits,,fit person 
+physical_traits,,light person 
+physical_traits,fit,ripped
+physical_traits,fit,physically fit
+physical_traits,fit,muscular
+physical_traits,fit,in-shape
+physical_traits,fit,fit
+physical_traits,thin,underweight
+physical_traits,thin,thin
+physical_traits,thin,svelte
+physical_traits,thin,slim
+physical_traits,thin,slender
+physical_traits,thin,skinny
+physical_traits,thin,lanky
+physical_traits,thin,gangly
+physical_traits,thin,dainty
+physical_traits,thin,bony
+physical_traits,fit,swole
+physical_traits,fit,toned
+physical_traits,fit,well-built
+physical_traits,fit,strong
+physical_traits,,sturdy person 
+physical_traits,,tiny person 
+physical_traits,,very thin person
+physical_traits,,buff person 
+physical_traits,,cute person 
+physical_traits,,in shape person
+physical_traits,,underweight person 
+physical_traits,,handsome person 
+physical_traits,,muscular person 
+physical_traits,,full person 
+physical_traits,,bulging muscles person
+physical_traits,,smallest person 
+physical_traits,overweight,fat
+physical_traits,overweight,curvy
+physical_traits,overweight,chunky
+physical_traits,overweight,chubby
+physical_traits,,normal person 
+physical_traits,overweight,potbellied
+physical_traits,overweight,slightly overweight
+physical_traits,miscellaneous,well-groomed
+physical_traits,large_stature,large
+physical_traits,large_stature,large-stature
+physical_traits,large_stature,larger
+physical_traits,large_stature,massive
+physical_traits,eye_color,blue-eyed
+physical_traits,eye_color,brown-eyed
+physical_traits,eye_color,green-eyed
+physical_traits,eye_color,hazel-eyed
+physical_traits,eye_color,gray-eyed
+physical_traits,eye_color,grey-eyed
+physical_traits,eye_color,amber-eyed
+physical_traits,hair,bald
+physical_traits,hair,bald-headed
+physical_traits,hair,balding
+physical_traits,hair,bearded
+physical_traits,hair,black-haired
+physical_traits,hair,blond
+physical_traits,large_stature,huge
+physical_traits,hair,blonde
+physical_traits,large_stature,giant
+physical_traits,large_stature,brawny
+physical_traits,attractive,cute
+physical_traits,attractive,good-looking
+physical_traits,attractive,gorgeous
+physical_traits,attractive,handsome
+physical_traits,attractive,hot
+physical_traits,attractive,hunky
+physical_traits,attractive,pretty
+physical_traits,attractive,sexy
+physical_traits,unattractive,homely
+physical_traits,unattractive,ugly
+physical_traits,unattractive,hideous
+physical_traits,unattractive,plain-looking
+physical_traits,large_stature,barrel-chested
+physical_traits,large_stature,beefy
+physical_traits,large_stature,big
+physical_traits,large_stature,bigger
+physical_traits,large_stature,big-boned
+physical_traits,large_stature,burly
+physical_traits,attractive,beautiful
+physical_traits,hair,brown-haired
+physical_traits,hair,clean-shaven
+physical_traits,hair,short-haired
+physical_traits,hair,silver-haired
+physical_traits,hair,spiky-haired
+physical_traits,hair,unshaved
+physical_traits,hair,white-haired
+physical_traits,hair,straight-haired
+physical_traits,skin_color,brown-skinned
+physical_traits,skin_color,dark-skinned
+physical_traits,skin_color,light-skinned
+physical_traits,skin_color,olive-skinned
+physical_traits,skin_color,pale-skinned
+physical_traits,miscellaneous,acne-covered
+physical_traits,miscellaneous,acne-ridden
+physical_traits,miscellaneous,smelly
+physical_traits,miscellaneous,stinky
+physical_traits,miscellaneous,out-of-shape
+physical_traits,miscellaneous,grungy
+physical_traits,hair,shaggy
+physical_traits,hair,brunette
+physical_traits,hair,scruffy
+physical_traits,hair,redheaded
+physical_traits,hair,coily-haired
+physical_traits,hair,curly-haired
+physical_traits,hair,dark-haired
+physical_traits,hair,dirty-blonde
+physical_traits,hair,dreadlocked
+physical_traits,hair,frizzy-haired
+physical_traits,hair,ginger
+physical_traits,hair,goateed
+physical_traits,hair,gray-haired
+physical_traits,hair,graying
+physical_traits,hair,hairy
+physical_traits,hair,kinky-haired
+physical_traits,hair,light-haired
+physical_traits,hair,long-haired
+physical_traits,hair,mustachioed
+physical_traits,hair,ponytailed
+physical_traits,hair,redhead
+physical_traits,hair,salt-and-pepper-haired
+physical_traits,attractive,attractive
+physical_traits,unattractive,unattractive
+physical_traits,overweight,bulky
+physical_traits,overweight,overweight
+physical_traits,overweight,obese
+physical_traits,overweight,morbidly obese
+physical_traits,attractive,adorable
+physical_traits,overweight,hefty
+physical_traits,overweight,heftier
+physical_traits,overweight,heavy-set
+physical_traits,overweight,heavyset
+physical_traits,overweight,heavy
+physical_traits,overweight,plump
+physical_traits,overweight,full-figured
+physical_traits,,cleft lip and palate
+physical_traits,,facial scars
+physical_traits,,limb scars
+physical_traits,,multiple facial piercings
+physical_traits,,multiple body piercings
+physical_traits,,multiple tattoos
+physical_traits,,old age
+physical_traits,,dwarf
+physical_traits,,young
+physical_traits,,chest scars
+physical_traits,overweight,plus-sized
+physical_traits,overweight,mildly overweight
+physical_traits,small_stature,short
+physical_traits,large_stature,taller
+physical_traits,large_stature,very tall
+physical_traits,large_stature,gigantic
+physical_traits,medium_stature,average-height
+physical_traits,medium_stature,medium-height
+physical_traits,medium_stature,medium-stature
+physical_traits,small_stature,littler
+physical_traits,small_stature,scrawny
+physical_traits,small_stature,petite
+physical_traits,small_stature,shorter
+physical_traits,small_stature,small
+physical_traits,small_stature,small-stature
+physical_traits,small_stature,smaller
+physical_traits,small_stature,tiny
+physical_traits,small_stature,vertically challenged
+physical_traits,small_stature,very short
+physical_traits,overweight,rotund
+physical_traits,large_stature,tall
+physical_traits,large_stature,stocky
+physical_traits,miscellaneous,scrubby
+political_ideologies,all,libertarian
+political_ideologies,all,anarchist
+political_ideologies,all,apolitical
+political_ideologies,all,nationalist
+political_ideologies,all,radical
+political_ideologies,all,liberal
+political_ideologies,all,progressive
+political_ideologies,all,communist
+political_ideologies,all,socialist
+political_ideologies,all,moderate
+political_ideologies,all,extremist
+political_ideologies,all,independent
+political_ideologies,all,democratic-socialist
+political_ideologies,all,fiscally conservative
+political_ideologies,all,socially liberal
+political_ideologies,all,right-wing
+political_ideologies,all,left-wing
+political_ideologies,all,rightist
+political_ideologies,all,leftist
+political_ideologies,all,republican
+political_ideologies,all,democrat
+political_ideologies,all,conservative
+political_ideologies,all,centrist
+race-ethnicity-color,,christian person 
+race-ethnicity-color,,european  
+race-ethnicity-color,,caucasian  
+race-ethnicity-color,,light skinned person
+race-ethnicity-color,,californian  
+race-ethnicity-color,,spanish person 
+race-ethnicity-color,,english person 
+race-ethnicity-color,,german  
+race-ethnicity-color,,texan  
+race-ethnicity-color,,chinese person 
+race-ethnicity-color,,african  
+race-ethnicity-color,,colored person 
+race-ethnicity-color,,black african 
+race-ethnicity-color,,white person 
+race-ethnicity-color,,puerto rican 
+race-ethnicity-color,,native american 
+race-ethnicity-color,,native  
+race-ethnicity-color,,mexican  
+race-ethnicity-color,,latino  
+race-ethnicity-color,,korean  
+race-ethnicity-color,,jew  
+race-ethnicity-color,,indian  
+race-ethnicity-color,,irish  
+race-ethnicity-color,,italian  
+race-ethnicity-color,,norse  
+race-ethnicity-color,,white american 
+race-ethnicity-color,,african american 
+race-ethnicity-color,,gypsy  
+race-ethnicity-color,,englishman  
+race-ethnicity-color,,black person 
+race-ethnicity-color,,asian american 
+race-ethnicity-color,,asian  
+race-ethnicity-color,,hispanic  
+race-ethnicity-color,,american indian 
+race-ethnicity-color,,american  
+race-ethnicity-color,,anglo american 
+race-ethnicity-color,,dark skinned person
+race-ethnicity-color,,afro american 
+race-ethnicity-color,,chinese  
+race_ethnicity_color,, moroccan
+race_ethnicity_color,, sweden
+race_ethnicity_color,, german
+race_ethnicity_color,, argentian
+race_ethnicity_color,, south africa
+race_ethnicity_color,, dutch people
+race_ethnicity_color,, south african
+race_ethnicity_color,, french
+race_ethnicity_color,, venezuelan
+race_ethnicity_color,, saudi arabia
+race_ethnicity_color,, jordan
+race_ethnicity_color,, lebanon
+race_ethnicity_color,, eritrean
+race_ethnicity_color,, peru
+race_ethnicity_color,, egyptian
+race_ethnicity_color,, indian
+race_ethnicity_color,, liberia
+race_ethnicity_color,, puerto rican
+race_ethnicity_color,, norweigan
+race_ethnicity_color,, puerto rico
+race_ethnicity_color,, romanian
+race_ethnicity_color,, korean
+race_ethnicity_color,, sudan
+race_ethnicity_color,, indonesian
+race_ethnicity_color,, ireland
+race_ethnicity_color,, mexico
+race_ethnicity_color,, pakistan
+race_ethnicity_color,, kenyan
+race_ethnicity_color,, brazil
+race_ethnicity_color,, japan
+race_ethnicity_color,, syrian
+race_ethnicity_color,, yemeni
+race_ethnicity_color,, africa
+race_ethnicity_color,, italy
+race_ethnicity_color,, irish
+race_ethnicity_color,,afghanistan
+race_ethnicity_color,, romania
+race_ethnicity_color,, austria
+race_ethnicity_color,, india
+race_ethnicity_color,, guatemalan
+race_ethnicity_color,, turkey
+race_ethnicity_color,, crimea
+race_ethnicity_color,, european
+race_ethnicity_color,, poland
+race_ethnicity_color,, chile
+race_ethnicity_color,, crimean
+race_ethnicity_color,, chilean
+race_ethnicity_color,, laos
+race_ethnicity_color,, bengali
+race_ethnicity_color,, ecuadorian
+race_ethnicity_color,, finnish
+race_ethnicity_color,, indonesia
+race_ethnicity_color,, lebanese
+race_ethnicity_color,, spain
+race_ethnicity_color,, australian
+race_ethnicity_color,, argentina
+race_ethnicity_color,, somalia
+race_ethnicity_color,, spanish
+race_ethnicity_color,, qatari
+race_ethnicity_color,, sierra leonean
+race_ethnicity_color,, vietnam
+race_ethnicity_color,, sierra leon
+race_ethnicity_color,, turkish
+race_ethnicity_color,, greece
+race_ethnicity_color,, persian people
+race_ethnicity_color,, vietnamese
+race_ethnicity_color,, europe
+race_ethnicity_color,, finland
+race_ethnicity_color,, portuguese
+race_ethnicity_color,, ukrainian
+race_ethnicity_color,, peruvian
+race_ethnicity_color,, laotian
+race_ethnicity_color,, bolivian
+race_ethnicity_color,, morocco
+race_ethnicity_color,, taiwan
+race_ethnicity_color,, polish
+race_ethnicity_color,, singaporean
+race_ethnicity_color,, omani
+race_ethnicity_color,, eriteria
+race_ethnicity_color,, iraq
+race_ethnicity_color,, ghana
+race_ethnicity_color,, taiwanese
+race_ethnicity_color,, austrian
+race_ethnicity_color,, greek
+race_ethnicity_color,, cameroonian
+race_ethnicity_color,, oman
+race_ethnicity_color,, bolivia
+race_ethnicity_color,, portugal
+race_ethnicity_color,, liberian
+race_ethnicity_color,, albanian
+race_ethnicity_color,, nepal
+race_ethnicity_color,alaska_native,alaska native
+race_ethnicity_color,, paraguayan
+race_ethnicity_color,, yemen
+race_ethnicity_color,, korea
+race_ethnicity_color,, jordanian
+race_ethnicity_color,, scotland
+race_ethnicity_color,, paraguay
+race_ethnicity_color,, australia
+race_ethnicity_color,, norway
+race_ethnicity_color,, albania
+race_ethnicity_color,, britain
+race_ethnicity_color,, ecuador
+race_ethnicity_color,, brazilian
+race_ethnicity_color,, swedish
+race_ethnicity_color,, native american
+race_ethnicity_color,, columbia
+race_ethnicity_color,, syria
+race_ethnicity_color,black,african-american
+race_ethnicity_color,, white people
+race_ethnicity_color,, qatar
+race_ethnicity_color,, venezuela
+race_ethnicity_color,, japanese
+race_ethnicity_color,, cameroon
+race_ethnicity_color,, sudanese
+race_ethnicity_color,combined,aapi
+race_ethnicity_color,latinx,latin
+race_ethnicity_color,latinx,latinx
+race_ethnicity_color,latinx,latine
+race_ethnicity_color,latinx,latina
+race_ethnicity_color,latinx,latino
+race_ethnicity_color,latinx,latin american
+race_ethnicity_color,indigenous,aboriginal
+race_ethnicity_color,indigenous,indigenous
+race_ethnicity_color,combined,bipoc
+race_ethnicity_color,indigenous,native american
+race_ethnicity_color,native_hawaiian,native hawaiian
+race_ethnicity_color,pacific_islander,pacific islander
+race_ethnicity_color,white,european
+race_ethnicity_color,white,european-american
+race_ethnicity_color,white,middle eastern
+race_ethnicity_color,white,white
+race_ethnicity_color,white,caucasian
+race_ethnicity_color,white,arab
+race_ethnicity_color,indigenous,american indian
+race_ethnicity_color,, chinese
+race_ethnicity_color,, scottish
+race_ethnicity_color,, afghan
+race_ethnicity_color,, russia
+race_ethnicity_color,, saudi arabian
+race_ethnicity_color,, mexican
+race_ethnicity_color,, british
+race_ethnicity_color,, ukraine
+race_ethnicity_color,, egypt
+race_ethnicity_color,, iraqi
+race_ethnicity_color,, arab
+race_ethnicity_color,, african
+race_ethnicity_color,, african americans
+race_ethnicity_color,black,african
+race_ethnicity_color,asian,southeast asian
+race_ethnicity_color,asian,south asian
+race_ethnicity_color,asian,oriental
+race_ethnicity_color,asian,east asian
+race_ethnicity_color,asian,desi
+race_ethnicity_color,asian,asian-american
+race_ethnicity_color,asian,asian
+race_ethnicity_color,, nigerian
+race_ethnicity_color,, somali
+race_ethnicity_color,, france
+race_ethnicity_color,, bangladesh
+race_ethnicity_color,, ethiopian
+race_ethnicity_color,, columbian
+race_ethnicity_color,, ghanaian
+race_ethnicity_color,, ethiopia
+race_ethnicity_color,, guatemala
+race_ethnicity_color,, iran
+race_ethnicity_color,, china
+race_ethnicity_color,, italian
+race_ethnicity_color,, germany
+race_ethnicity_color,, hispanic
+race_ethnicity_color,, russian
+race_ethnicity_color,, kenya
+race_ethnicity_color,, pakistani
+race_ethnicity_color,, iranian
+race_ethnicity_color,, netherlands
+race_ethnicity_color,, cape verdean
+race_ethnicity_color,, nepali
+race_ethnicity_color,, singapore
+race_ethnicity_color,, cape verde
+race_ethnicity_color,latinx,hispanic
+race_ethnicity_color,black,black
+race_race_ethnicity_color_color,,latino
+race_race_ethnicity_color_color,,asian american
+race_race_ethnicity_color_color,,black
+race_race_ethnicity_color_color,,european american
+race_race_ethnicity_color_color,,caucasian
+race_race_ethnicity_color_color,,south asian
+race_race_ethnicity_color_color,,native american
+race_race_ethnicity_color_color,,african american
+race_race_ethnicity_color_color,,middle eastern
+race_race_ethnicity_color_color,,latina
+race_race_ethnicity_color_color,,multiracial
+religion,, shiva
+religion,all,irreligious
+religion,all,satanist
+religion,all,secular
+religion,all,roman catholic
+religion,all,religious
+religion,all,reform jewish
+religion,all,rastafarian
+religion,all,rastafari
+religion,all,rasta
+religion,all,protestant
+religion,all,pagan
+religion,all,orthodox jewish
+religion,all,muslim
+religion,all,mormon
+religion,all,methodist
+religion,all,lutheran
+religion,all,jewish
+religion,all,jehovah's witness
+religion,all,jain
+religion,, ten commandments
+religion,all,scientologist
+religion,all,sephardic jewish
+religion,all,seventh-day adventist
+religion,all,shia
+religion,, trinity
+religion,, sanskrit
+religion,, mecca
+religion,, islam
+religion,, baptize
+religion,, mohammed
+religion,, sharia
+religion,, church
+religion,, jesus
+religion,all,humanist
+religion,, christ
+religion,all,zoroastrian
+religion,all,unitarian
+religion,all,wiccan
+religion,all,taoist
+religion,all,sunni
+religion,all,spiritualist
+religion,all,spiritual
+religion,all,sikh
+religion,all,shintoist
+religion,, messiah
+religion,all,hindu
+religion,all,hasidic
+religion,all,evangelical
+religion,,wiccan person 
+religion,,protestant  
+religion,,lutheran  
+religion,,american  
+religion,,white person 
+religion,,italian  
+religion,,methodist  
+religion,,mormon  
+religion,,unitarian  
+religion,,satanist  
+religion,,episcopalian  
+religion,, hajj
+religion,, bible
+religion,, christian
+religion,, reincarnation
+religion,, muslim
+religion,,jihad
+religion,,fundamentalist christian
+religion,, hindu
+religion,, brahmin
+religion,,baptist  
+religion,, quran
+religion,,muslim  
+religion,,hindu  
+religion,all,druze
+religion,all,conservative jewish
+religion,all,confucianist
+religion,all,christian
+religion,all,cheondoist
+religion,all,catholic
+religion,all,buddhist
+religion,all,born-again
+religion,all,bahá'í
+religion,,jew  
+religion,all,atheist
+religion,all,amish
+religion,all,agnostic
+religion,, vishnu
+religion,,amish person 
+religion,,arabic person 
+religion,,atheist  
+religion,,buddhist  
+religion,,catholic  
+religion,,christian  
+religion,all,ashkenazi jewish
+religion,, holy trinity
+sexuality,,homosexual person 
+sexuality,,non-heterosexual
+sexuality,,intersex
+sexuality,straight,heterosexual
+sexuality,straight,hetero
+sexuality,asexual_or_aromantic,ace
+sexuality,queer,queer
+sexuality,straight,straight
+sexuality,,lady  
+sexuality,,etero person 
+sexuality,,woman  
+sexuality,,straight person 
+sexuality,,trans person 
+sexuality,,lesbian  
+sexuality,,gay  
+sexuality,,heterosexual person 
+sexuality,asexual_or_aromantic,asexual
+sexuality,,man  
+sexuality,asexual_or_aromantic,aromantic
+sexuality,,bisexual person 
+sexuality,bi,bisexual
+sexuality,queer,lgbtq+
+sexuality,bi,bi
+sexuality,queer,lgbtq
+sexuality,queer,lgbt
+sexuality,polyamorous,polyamorous
+sexuality,pansexual,pansexual
+sexuality,polyamorous,poly
+sexuality,lesbian,lesbian
+sexuality,gay,homosexual
+sexuality,gay,gay
+sexuality,demisexual,demisexual
+sexuality,pansexual,pan
+socioeconomic,, physician
+socioeconomic,, banker
+socioeconomic,, dentist
+socioeconomic,, pensioner
+socioeconomic,, performing artist
+socioeconomic,, judge
+socioeconomic,, doctor
+socioeconomic,, chef
+socioeconomic,, electrician
+socioeconomic,, sociologist
+socioeconomic,, teacher
+socioeconomic,, chief
+socioeconomic,, prosecutor
+socioeconomic,, commander
+socioeconomic,, producer
+socioeconomic,, actor
+socioeconomic,, realtor
+socioeconomic,, composer
+socioeconomic,, diplomat
+socioeconomic,, pharmacist
+socioeconomic,, comedian
+socioeconomic,, journalist
+socioeconomic,, clerk
+socioeconomic,, counselor
+socioeconomic,, assistant
+socioeconomic,, civil servant
+socioeconomic,, bartender
+socioeconomic,, author
+socioeconomic,, drawer
+socioeconomic,, tennis player
+socioeconomic,, delivery man
+socioeconomic,, waiter
+socioeconomic,, attendant
+socioeconomic,, umpire
+socioeconomic,, handyman
+socioeconomic,, editor
+socioeconomic,, plumber
+socioeconomic,, painter
+socioeconomic,, artist
+socioeconomic,,working in the finance industry
+socioeconomic,, nurse
+socioeconomic,,rancher  
+socioeconomic,,ramshackle person 
+socioeconomic,,working in a service industry
+socioeconomic,,professor  
+socioeconomic,,private person 
+socioeconomic,,poverty stricken person
+socioeconomic,,homely person 
+socioeconomic,,police officer 
+socioeconomic,,pastor  
+socioeconomic,,motorcycle gang 
+socioeconomic,,rich person 
+socioeconomic,,mother  
+socioeconomic,,mafia  
+socioeconomic,,lawyer  
+socioeconomic,,laborer  
+socioeconomic,,homeless person 
+socioeconomic,,hillibilly  
+socioeconomic,,high income person
+socioeconomic,,ghetto person 
+socioeconomic,,garbage man 
+socioeconomic,,gang member 
+socioeconomic,,fisherman  
+socioeconomic,,manual laborer 
+socioeconomic,,secretary  
+socioeconomic,,slave  
+socioeconomic,,trailer park person
+socioeconomic,,overeducated person 
+socioeconomic,,cashier  
+socioeconomic,,nurse  
+socioeconomic,,co-owner  
+socioeconomic,,actor  
+socioeconomic,,meager person 
+socioeconomic,,corporate offices person
+socioeconomic,,engineer  
+socioeconomic,,countryside person 
+socioeconomic,,scientist  
+socioeconomic,,store person 
+socioeconomic,,mechanic  
+socioeconomic,,famous surgeon 
+socioeconomic,,queen  
+socioeconomic,,athlete  
+socioeconomic,,yacht person 
+socioeconomic,,gated community person
+socioeconomic,,office worker 
+socioeconomic,,white person 
+socioeconomic,,rich brat 
+socioeconomic,,tent dweller 
+socioeconomic,,rockstar  
+socioeconomic,,uneducated person 
+socioeconomic,,fashion model 
+socioeconomic,,offender  
+socioeconomic,,ex convict 
+socioeconomic,,doctor  
+socioeconomic,upper_class,one-percenter
+socioeconomic,upper_class,upper-class
+socioeconomic,upper_class,wealthy
+socioeconomic,upper_class,well-to-do
+socioeconomic,upper_class,well-off
+socioeconomic,middle_class,middle-class
+socioeconomic,working_class,working-class
+socioeconomic,below_poverty_line,poor
+socioeconomic,below_poverty_line,broke
+socioeconomic,below_poverty_line,low-income
+socioeconomic,upper_class,rich
+socioeconomic,educational_attainment,high-school-dropout
+socioeconomic,,less than a high school education
+socioeconomic,,have a high school education
+socioeconomic,,have a college degree
+socioeconomic,,have a doctoral degree
+socioeconomic,,working in a manual industry
+socioeconomic,,upper class
+socioeconomic,,middle class
+socioeconomic,,working class
+socioeconomic,,working in academia
+socioeconomic,,working in the technology industry
+socioeconomic,educational_attainment,college-graduate
+socioeconomic,upper_class,moneyed
+socioeconomic,upper_class,high-net-worth
+socioeconomic,upper_class,financially well-off
+socioeconomic,,cop  
+socioeconomic,,contract worker 
+socioeconomic,,construction worker 
+socioeconomic,,considerable person 
+socioeconomic,,coal mines person
+socioeconomic,,clown  
+socioeconomic,,city person 
+socioeconomic,,celebrity  
+socioeconomic,,cash register person
+socioeconomic,,businessman  
+socioeconomic,,broken student 
+socioeconomic,,bowman  
+socioeconomic,,bootlegger  
+socioeconomic,,apartment person 
+socioeconomic,,trailer person 
+socioeconomic,,janitor  
+socioeconomic,,vet  
+socioeconomic,,poor person 
+socioeconomic,,italian mobster 
+socioeconomic,,homeowner  
+socioeconomic,,ceo  
+socioeconomic,,astronomer  
+socioeconomic,upper_class,affluent
+socioeconomic,,drop out 
+socioeconomic,,landscaper  
+socioeconomic,,accountant  
+socioeconomic,,bougie person 
+socioeconomic,, singer
+socioeconomic,, photographer
+socioeconomic,, accountant
+socioeconomic,, designer
+socioeconomic,, maid
+socioeconomic,, librarian
+socioeconomic,, midwife
+socioeconomic,, manager
+socioeconomic,, mover
+socioeconomic,, physicist
+socioeconomic,, opera singer
+socioeconomic,, policeman
+socioeconomic,, economist
+socioeconomic,, sheriff
+socioeconomic,, linguist
+socioeconomic,, receptionist
+socioeconomic,, coach
+socioeconomic,, detective
+socioeconomic,, lawyer
+socioeconomic,, chemist
+socioeconomic,, professor
+socioeconomic,, engineer
+socioeconomic,, handball player
+socioeconomic,, secretary
+socioeconomic,, historian
+socioeconomic,, architect
+socioeconomic,, barber
+socioeconomic,, auditor
+socioeconomic,, director
+socioeconomic,, tailor
+socioeconomic,, soldier
+socioeconomic,, cashier
+socioeconomic,, athlete
+socioeconomic,, army
+socioeconomic,, theologian
+socioeconomic,, analyst
+socioeconomic,, musician
+socioeconomic,, academic
+socioeconomic,, poet
+socioeconomic,, illustrator
+socioeconomic,, boxer
+socioeconomic,, cleaner
+socioeconomic,, psychologist
+socioeconomic,, baker
+socioeconomic,, real-estate developer
+socioeconomic,, dancer
+socioeconomic,, pilot
+socioeconomic,, laborer
+socioeconomic,, guard
+socioeconomic,, guitarist
+socioeconomic,, carpenter
+socioeconomic,, writer
+socioeconomic,, ceo
+socioeconomic,,mansion person 
+socioeconomic,,trash collector 
+socioeconomic,,boss  
+socioeconomic,,thug  
+socioeconomic,,billionaire  
+socioeconomic,,begger  
+socioeconomic,,urban person 
+socioeconomic,,upper class person
+socioeconomic,,over wealthy person
+socioeconomic,,well-off person 
+socioeconomic,,privileged person 
+socioeconomic,,posh person 
+socioeconomic,,pampered person 
+socioeconomic,,gambler  
+socioeconomic,,cleric  
+socioeconomic,,police  
+socioeconomic,,executive  
+socioeconomic,,waiter  
+socioeconomic,,school teacher 
+socioeconomic,,landlord  
+socioeconomic,,wealthy person 
+socioeconomic,,welfare money person
+socioeconomic,,suburb person 
+socioeconomic,,educated person 
+socioeconomic,, housekeeper
+socioeconomic,,janitor
+socioeconomic,, model
+socioeconomic,, hairdresser
+socioeconomic,, software developer
+socioeconomic,, mechanic
+socioeconomic,, butcher
+socioeconomic,, attorney
+socioeconomic,, construction worker
+socioeconomic,, supervisor
+socioeconomic,, entrepreneur
+socioeconomic,, pianist
+socioeconomic,, swimmer
+socioeconomic,, scientist
+socioeconomic,, farmer
+socioeconomic,, broker
+socioeconomic,, prisoner
+socioeconomic,, politician
+socioeconomic,, cook
+socioeconomic,, chess player
+socioeconomic,, researcher
+socioeconomic,, firefighter
+socioeconomic,, priest
+socioeconomic,, football player
+socioeconomic,, mathematician
+socioeconomic,, businessperson
+socioeconomic,, salesperson
+socioeconomic,,prostitute  

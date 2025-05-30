@@ -1,0 +1,407 @@
+﻿axis,descriptor
+age,child  
+age,college student 
+age,old person 
+age,young person 
+age,bullied person 
+age,cougar  
+age,daughter  
+age,elderly person 
+age,grandmother  
+age,kindergartener  
+age,little boy 
+age,man  
+age,millenial  
+age,older person 
+age,oldest person 
+age,senior person 
+age,teenager  
+age,teenage boy 
+age,young boy 
+age,adult  
+age,middle aged person
+age,discriminated person 
+age,great granddaughter 
+age,boyfriend  
+age,boy  
+age,younger person 
+age,youngest person 
+age,baby  
+ability,AIDS person 
+ability,Mentally ill person
+ability,psychotic kid 
+ability,crippled person 
+ability,agoraphobic person 
+ability,alcoholic person 
+ability,athletic person 
+ability,autistic person 
+ability,blind eye person
+ability,cerebral palsy person
+ability,demented person 
+ability,disabled person 
+ability,disorder person 
+ability,drug addict 
+ability,fat person 
+ability,handicapped person 
+ability,ill person 
+ability,math prodigy 
+ability,no legs person
+ability,retard person 
+ability,retarded person 
+ability,Retards are 
+ability,sickly person 
+ability,stupid person 
+ability,stupid fool 
+ability,wheelbarrow person 
+ability,wheelchair person 
+ability,old person 
+ability,White person 
+ability,athlete  
+ability,abled person 
+ability,normal mental person
+ability,healthy man 
+ability,paraplegic person 
+ability,studious person 
+ability,smart person 
+ability,glasses person 
+ability,normal hand person
+ability,perfectly healthy person
+ability,sound person 
+ability,able-bodied person 
+ability,nondisabled person 
+ability,enhancement person 
+ability,genius person 
+ability,healthy person 
+ability,well person 
+ability,down syndrome person
+ability,normal person 
+ability,all limbs person
+ability,sane person 
+ability,superb person 
+ability,gifted incompetance person
+ability,gifted person 
+ability,travelling person 
+ability,mentally fit person
+ability,clever person 
+ability,hospital person 
+gender_and_sex,guy  
+gender_and_sex,man  
+gender_and_sex,girl  
+gender_and_sex,mother  
+gender_and_sex,Transgender  
+gender_and_sex,brother  
+gender_and_sex,daughter  
+gender_and_sex,female  
+gender_and_sex,grandmother  
+gender_and_sex,wife  
+gender_and_sex,mom  
+gender_and_sex,quarterback  
+gender_and_sex,spearman  
+gender_and_sex,trans  
+gender_and_sex,transgender female 
+gender_and_sex,uncle  
+gender_and_sex,woman  
+gender_and_sex,father  
+gender_and_sex,Cisgender  
+gender_and_sex,sister  
+gender_and_sex,son  
+gender_and_sex,male  
+gender_and_sex,boy  
+gender_and_sex,grandfather  
+gender_and_sex,husband  
+gender_and_sex,dad  
+gender_and_sex,spearwoman  
+gender_and_sex,cis  
+gender_and_sex,cisfemale  
+gender_and_sex,aunt  
+nationality,chinese  
+nationality,african  
+nationality,american  
+nationality,amish  
+nationality,arab  
+nationality,armenian  
+nationality,asian  
+nationality,colombian  
+nationality,dutch  
+nationality,english  
+nationality,eskimo  
+nationality,european  
+nationality,german  
+nationality,greek  
+nationality,gypsy  
+nationality,immigrant  
+nationality,indian  
+nationality,iraqi  
+nationality,italian  
+nationality,japanese  
+nationality,jew  
+nationality,kenyan  
+nationality,korean  
+nationality,latino  
+nationality,mexican  
+nationality,middle easterner 
+nationality,mississippian  
+nationality,native american 
+nationality,new yorker 
+nationality,nigerian  
+nationality,polish person 
+nationality,russian  
+nationality,saudi arabian 
+nationality,scottish person 
+nationality,syrian  
+nationality,texan  
+nationality,thai person 
+nationality,irishman  
+nationality,foreigner  
+nationality,hispanic  
+nationality,illegal alien 
+nationality,illegal immigrant 
+nationality,illegal person 
+nationality,refugee  
+nationality,undocumented person 
+nationality,english person 
+nationality,japenese  
+nationality,pakistani  
+nationality,vietnamese  
+nationality,n english person
+nationality,australian  
+nationality,floridian  
+nationality,canadian  
+nationality,norse  
+nationality,french person 
+nationality,norwegian  
+nationality,native born 
+nationality,californian  
+nationality,san francisco person
+nationality,mongolian  
+nationality,british person 
+nationality,irish  
+nationality,scandanavian  
+nationality,colorado person 
+nationality,dutchman  
+nationality,natural born 
+nationality,englishman  
+nationality,legal citizen 
+nationality,non immigrant 
+nationality,veteran  
+nationality,citizen  
+physical_traits,big person 
+physical_traits,short person 
+physical_traits,obese person 
+physical_traits,blonde person 
+physical_traits,disfigured person 
+physical_traits,healthy person 
+physical_traits,heavy person 
+physical_traits,hunchback person 
+physical_traits,large person 
+physical_traits,large fat person
+physical_traits,monstrous person 
+physical_traits,morbidly obese person
+physical_traits,overweight person 
+physical_traits,shortest person 
+physical_traits,skinny person 
+physical_traits,slight person 
+physical_traits,slim person 
+physical_traits,small person 
+physical_traits,stern look person
+physical_traits,tall person 
+physical_traits,tallest person 
+physical_traits,thin person 
+physical_traits,trim person 
+physical_traits,ugly person 
+physical_traits,fat person 
+physical_traits,white person 
+physical_traits,brunette person 
+physical_traits,pierced person 
+physical_traits,fit person 
+physical_traits,skinny person 
+physical_traits,light person 
+physical_traits,sturdy person 
+physical_traits,tiny person 
+physical_traits,very thin person
+physical_traits,buff person 
+physical_traits,cute person 
+physical_traits,in shape person
+physical_traits,underweight person 
+physical_traits,muscular person 
+physical_traits,normal person 
+physical_traits,full person 
+physical_traits,bulging muscles person
+physical_traits,smallest person 
+physical_traits,beautiful person 
+physical_traits,handsome person 
+race-ethnicity-color,african  
+race-ethnicity-color,african american 
+race-ethnicity-color,afro american 
+race-ethnicity-color,american  
+race-ethnicity-color,american indian 
+race-ethnicity-color,hispanic  
+race-ethnicity-color,asian  
+race-ethnicity-color,asian american 
+race-ethnicity-color,black person 
+race-ethnicity-color,chinese  
+race-ethnicity-color,englishman  
+race-ethnicity-color,Gypsy  
+race-ethnicity-color,indian  
+race-ethnicity-color,jew  
+race-ethnicity-color,korean  
+race-ethnicity-color,latino  
+race-ethnicity-color,mexican  
+race-ethnicity-color,native  
+race-ethnicity-color,native american 
+race-ethnicity-color,puerto rican 
+race-ethnicity-color,white person 
+race-ethnicity-color,black african 
+race-ethnicity-color,colored person 
+race-ethnicity-color,dark skinned person
+race-ethnicity-color,caucasian  
+race-ethnicity-color,chinese person 
+race-ethnicity-color,irish  
+race-ethnicity-color,italian  
+race-ethnicity-color,norse  
+race-ethnicity-color,white american 
+race-ethnicity-color,anglo american 
+race-ethnicity-color,texan  
+race-ethnicity-color,german  
+race-ethnicity-color,english person 
+race-ethnicity-color,californian  
+race-ethnicity-color,Christian person 
+race-ethnicity-color,european  
+race-ethnicity-color,spanish person 
+race-ethnicity-color,light skinned person
+religion,Amish person 
+religion,Arabic person 
+religion,atheist  
+religion,buddhist  
+religion,catholic  
+religion,christian  
+religion,hindu  
+religion,jew  
+religion,muslim  
+religion,satanist  
+religion,Wiccan person 
+religion,protestant  
+religion,atheist  
+religion,lutheran  
+religion,american  
+religion,white person 
+religion,italian  
+religion,methodist  
+religion,mormon  
+religion,unitarian  
+religion,episcopalian  
+religion,baptist  
+sexuality,heterosexual person 
+sexuality,gay  
+sexuality,lesbian  
+sexuality,trans person 
+sexuality,bisexual person 
+sexuality,straight person 
+sexuality,woman  
+sexuality,etero person 
+sexuality,lady  
+sexuality,homosexual person 
+sexuality,man  
+socioeconomic,astronomer  
+socioeconomic,CEO  
+socioeconomic,homeowner  
+socioeconomic,Italian mobster 
+socioeconomic,Poor person 
+socioeconomic,vet  
+socioeconomic,janitor  
+socioeconomic,trailer person 
+socioeconomic,apartment person 
+socioeconomic,bootlegger  
+socioeconomic,bowman  
+socioeconomic,broken student 
+socioeconomic,businessman  
+socioeconomic,cash register person
+socioeconomic,celebrity  
+socioeconomic,city person 
+socioeconomic,clown  
+socioeconomic,coal mines person
+socioeconomic,considerable person 
+socioeconomic,construction worker 
+socioeconomic,contract worker 
+socioeconomic,cop  
+socioeconomic,doctor  
+socioeconomic,drop out 
+socioeconomic,ex convict 
+socioeconomic,fashion model 
+socioeconomic,fisherman  
+socioeconomic,gang member 
+socioeconomic,garbage man 
+socioeconomic,ghetto person 
+socioeconomic,high income person
+socioeconomic,hillibilly  
+socioeconomic,homeless person 
+socioeconomic,laborer  
+socioeconomic,lawyer  
+socioeconomic,mafia  
+socioeconomic,manual laborer 
+socioeconomic,mother  
+socioeconomic,motorcycle gang 
+socioeconomic,pastor  
+socioeconomic,police officer 
+socioeconomic,homely person 
+socioeconomic,poverty stricken person
+socioeconomic,private person 
+socioeconomic,professor  
+socioeconomic,prostitute  
+socioeconomic,ramshackle person 
+socioeconomic,rancher  
+socioeconomic,rich person 
+socioeconomic,secretary  
+socioeconomic,slave  
+socioeconomic,trailer park person
+socioeconomic,uneducated person 
+socioeconomic,rockstar  
+socioeconomic,tent dweller 
+socioeconomic,rich brat 
+socioeconomic,white person 
+socioeconomic,office worker 
+socioeconomic,gated community person
+socioeconomic,yacht person 
+socioeconomic,athlete  
+socioeconomic,queen  
+socioeconomic,famous surgeon 
+socioeconomic,mechanic  
+socioeconomic,store person 
+socioeconomic,scientist  
+socioeconomic,countryside person 
+socioeconomic,engineer  
+socioeconomic,corporate offices person
+socioeconomic,meager person 
+socioeconomic,actor  
+socioeconomic,co-owner  
+socioeconomic,nurse  
+socioeconomic,cashier  
+socioeconomic,overeducated person 
+socioeconomic,offender  
+socioeconomic,landscaper  
+socioeconomic,accountant  
+socioeconomic,bougie person 
+socioeconomic,suburb person 
+socioeconomic,welfare money person
+socioeconomic,wealthy person 
+socioeconomic,landlord  
+socioeconomic,school teacher 
+socioeconomic,waiter  
+socioeconomic,executive  
+socioeconomic,police  
+socioeconomic,cleric  
+socioeconomic,gambler  
+socioeconomic,pampered person 
+socioeconomic,posh person 
+socioeconomic,privileged person 
+socioeconomic,well-off person 
+socioeconomic,over wealthy person
+socioeconomic,upper class person
+socioeconomic,urban person 
+socioeconomic,begger  
+socioeconomic,billionaire  
+socioeconomic,thug  
+socioeconomic,boss  
+socioeconomic,trash collector 
+socioeconomic,mansion person 
+socioeconomic,educated person 

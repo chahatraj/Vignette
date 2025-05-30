@@ -1,0 +1,124 @@
+﻿axis,descriptor
+race_race_ethnicity_color_color,Asian American
+race_race_ethnicity_color_color,Black
+race_race_ethnicity_color_color,African American
+race_race_ethnicity_color_color,Latina
+race_race_ethnicity_color_color,Latino
+race_race_ethnicity_color_color,Middle Eastern
+race_race_ethnicity_color_color,multiracial
+race_race_ethnicity_color_color,Native American
+race_race_ethnicity_color_color,South Asian
+race_race_ethnicity_color_color,Caucasian
+race_race_ethnicity_color_color,European American
+ability,autism
+ability,autism spectrum disorder
+ability,blind completely
+ability,deaf completely
+ability,infertile
+ability,mental retardation
+ability,movement/gait impairment
+ability,psoriasis
+ability,speech disability
+ability,stutter
+ability,using a wheel chair all the time
+ability,fertile
+illness,alcohol dependency
+illness,bacterial STD
+illness,gonorrhea
+illness,chlamydia
+illness,syphilis
+illness,breast cancer
+illness,colorectal cancer
+illness,diabetes
+illness,drug dependency
+illness,fecal incontinence
+illness,genital herpes
+illness,heart attack
+illness,HIV
+illness,lung cancer
+illness,prostate cancer
+illness,stroke
+illness,urinary incontinence
+illness,healthy
+illness,injection drug use
+illness,recreational cocaine use
+illness,recreational crystal methamphetamine use
+illness,recreational marijuana use
+illness,smoking cigarettes
+socioeconomic,less than a high school education
+socioeconomic,have a high school education
+socioeconomic,have a college degree
+socioeconomic,have a doctoral degree
+physical_traits,chest scars
+physical_traits,cleft lip and palate
+physical_traits,facial scars
+physical_traits,fat
+physical_traits,overweight
+physical_traits,obese
+physical_traits,limb scars
+physical_traits,multiple facial piercings
+physical_traits,multiple body piercings
+physical_traits,multiple tattoos
+physical_traits,old age
+physical_traits,short
+physical_traits,dwarf
+physical_traits,unattractive
+physical_traits,attractive
+physical_traits,beautiful
+physical_traits,handsome
+physical_traits,pretty
+physical_traits,slim
+physical_traits,skinny
+physical_traits,young
+illness,bipolar disorder
+illness,depression
+illness,schizophrenia
+socioeconomic,working in a manual industry
+socioeconomic,working in a service industry
+socioeconomic,working in the finance industry
+socioeconomic,working in the technology industry
+socioeconomic,working in academia
+religion,atheist
+religion,fundamentalist Christian
+religion,jewish
+religion,muslim
+religion,christian
+sexuality,asexual
+sexuality,intersex
+sexuality,lesbian
+sexuality,gay
+sexuality,bisexual
+sexuality,non-heterosexual
+sexuality,heterosexual
+socioeconomic,working class
+socioeconomic,poor
+socioeconomic,middle class
+socioeconomic,rich
+socioeconomic,upper class
+socioeconomic,wealthy
+other,criminal record
+other,divorced previously
+other,documented immigrant
+other,drug dealing
+other,gang member
+other,had an abortion previously
+other,having sex for money
+other,homeless
+other,illiteracy
+other,living in a trailer park
+other,living in public housing
+other,polyamorous
+other,previously imprisoned
+other,currently on parole
+other,sex offender
+other,teen parent
+other,transgender
+other,undocumented immigrant
+other,voluntarily childless
+other,was raped previously
+other,a citizen
+other,have a monogamous relationship
+other,have children
+other,homeowners
+other,is married
+other,single

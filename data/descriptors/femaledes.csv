@@ -1,0 +1,163 @@
+axis,bucket,descriptor,Visibility-gpt,Visibility-human,VLabel
+ability,,wheelchair woman, Yes,Yes,Yes
+ability,,athletic woman, Yes,Yes,Yes
+ability,,healthy woman, Yes,Yes,Yes
+ability,,glasses woman, Yes,Yes,Yes
+ability,,ill woman, Yes,Yes,Yes
+ability,,psoriasis woman, Maybe,Maybe,Yes
+ability,,disabled woman, Yes,Yes,Yes
+ability,visual,blind woman, Yes,Yes,Yes
+ability,mobility,crippled woman, Yes,Yes,Yes
+ability,,down syndrome woman, Yes,Yes,Yes
+age,,female child, Yes,Yes,Yes
+age,,female college student, Yes,Maybe,Yes
+age,,old woman, Yes,Yes,Yes
+age,,young woman, Yes,Yes,Yes
+age,,middle aged woman, Yes,Yes,Yes
+age,,female adult, Yes,Yes,Yes
+age,,female teenager, Yes,Yes,Yes
+age,,little girl, Yes,Yes,Yes
+age,child,female adolescent, Yes,Yes,Yes
+nationality,,pakistani woman, Yes,Maybe,Yes
+nationality,,irish woman, Yes,Maybe,Yes
+nationality,,american woman, Yes,Yes,Yes
+nationality,,african woman, Yes,Yes,Yes
+nationality,,chinese woman, Yes,Yes,Yes
+nationality,,british woman, Yes,Maybe,Yes
+nationality,,vietnamese woman, Yes,Yes,Yes
+nationality,,hispanic woman, Yes,Yes,Yes
+nationality,,mongolian woman, Yes,Yes,Yes
+nationality,mexico,mexican woman, Yes,Yes,Yes
+nationality,philippines,filipina, Yes,Yes,Yes
+nationality,south_korea,korean woman, Yes,Yes,Yes
+nationality,india,indian woman, Yes,Yes,Yes
+nationality,,french woman, Yes,Yes,Yes
+nationality,,thai woman, Yes,Yes,Yes
+nationality,,german woman, Yes,Yes,Yes
+nationality,,middle eastern woman, Yes,Yes,Yes
+nationality,,native american woman, Yes,Maybe,Yes
+nationality,,japanese woman, Yes,Yes,Yes
+nationality,,italian woman, Yes,Yes,Yes
+nationality,,iraqi woman, Yes,Yes,Yes
+nationality,,greek woman, Yes,Yes,Yes
+nationality,,russian woman, Yes,Yes,Yes
+nationality,,european woman, Yes,Yes,Yes
+nationality,,eskimo, Yes,Yes,Yes
+nationality,,scottish woman, Yes,Yes,Yes
+race_ethnicity_color,,caucasian woman, Yes,Yes,Yes
+race_ethnicity_color,,spanish woman, Yes,Yes,Yes
+race_ethnicity_color,,white american woman, Yes,Yes,Yes
+race_ethnicity_color,,black woman, Yes,Yes,Yes
+race_ethnicity_color,,moroccan woman, Yes,Yes,Yes
+race_ethnicity_color,,argentian woman, Yes,Yes,Yes
+race_ethnicity_color,,egyptian woman, Yes,Yes,Yes
+race_ethnicity_color,,indonesian woman, Yes,Yes,Yes
+race_ethnicity_color,,brazilian woman, Yes,Yes,Yes
+race_ethnicity_color,,bengali woman, Yes,Yes,Yes
+race_ethnicity_color,,nepali woman, Yes,Yes,Yes
+race_ethnicity_color,indigenous,aboriginal woman, Yes,Yes,Yes
+race_ethnicity_color,indigenous,indigenous woman, Yes,Yes,Yes
+race_ethnicity_color,asian,asian woman, Yes,Yes,Yes
+physical_traits,,beautiful woman, Yes,Maybe,Yes
+physical_traits,,tall woman, Yes,Yes,Yes
+physical_traits,,fat woman, Yes,Yes,Yes
+physical_traits,,thin woman, Yes,Yes,Yes
+physical_traits,,ugly woman, Maybe,Maybe,Yes
+physical_traits,,white woman, Yes,Yes,Yes
+physical_traits,,brunette woman, Yes,Yes,Yes
+physical_traits,,large woman, Yes,Yes,Yes
+physical_traits,,hunchback woman, Yes,Yes,Yes
+physical_traits,,disfigured woman, Maybe,Yes,Yes
+physical_traits,,blonde woman, Yes,Yes,Yes
+physical_traits,,obese woman, Yes,Yes,Yes
+physical_traits,,short woman, Yes,Yes,Yes
+physical_traits,,pierced woman, Yes,Yes,Yes
+physical_traits,,fit woman, Yes,Yes,Yes
+physical_traits,fit,muscular woman, Yes,Yes,Yes
+physical_traits,thin,underweight woman, Yes,Maybe,Yes
+physical_traits,,cute woman, Maybe,Maybe,Yes
+physical_traits,hair,bald woman, Yes,Yes,Yes
+physical_traits,hair,black-haired woman, Yes,Yes,Yes
+physical_traits,hair,brown-haired woman, Yes,Yes,Yes
+physical_traits,hair,short-haired woman, Yes,Yes,Yes
+physical_traits,hair,spiky-haired woman, Yes,Yes,Yes
+physical_traits,skin_color,brown-skinned woman, Yes,Yes,Yes
+physical_traits,skin_color,dark-skinned woman, Yes,Yes,Yes
+physical_traits,skin_color,light-skinned woman, Yes,Yes,Yes
+physical_traits,skin_color,pale-skinned woman, Yes,Yes,Yes
+physical_traits,miscellaneous,acne-covered woman, Yes,Yes,Yes
+physical_traits,miscellaneous,acne-ridden woman, Yes,Yes,Yes
+physical_traits,hair,redheaded woman, Yes,Yes,Yes
+physical_traits,hair,curly-haired woman, Yes,Yes,Yes
+physical_traits,hair,dreadlocked woman, Yes,Yes,Yes
+physical_traits,hair,gray-haired woman, Yes,Yes,Yes
+physical_traits,hair,long-haired woman, Yes,Yes,Yes
+physical_traits,attractive,attractive woman, Maybe,Maybe,Yes
+physical_traits,unattractive,unattractive woman, Maybe,Maybe,Yes
+physical_traits,,tattooed woman, Yes,Yes,Yes
+religion,all,satanist woman, Maybe,Maybe,Yes
+religion,all,muslim woman, Yes,Yes,Yes
+religion,all,mormon woman, Yes,Yes,Yes
+religion,all,jewish woman, Yes,Yes,Yes
+religion,all,jain woman, Yes,Maybe,Yes
+religion,all,zoroastrian woman, Yes,Maybe,Yes
+religion,all,wiccan woman, Maybe,Maybe,Yes
+religion,all,taoist woman, Yes,Maybe,Yes
+religion,all,sikh woman, Yes,Yes,Yes
+religion,all,hindu woman, Yes,Yes,Yes
+religion,, christian woman, Yes,Yes,Yes
+religion,all,buddhist woman, Yes,Yes,Yes
+socioeconomic,,female physician, Yes,Yes,Yes
+socioeconomic,,female doctor, Yes,Yes,Yes
+socioeconomic,,female chef, Yes,Yes,Yes
+socioeconomic,,female electrician, Yes,Yes,Yes
+socioeconomic,,female teacher, Yes,Yes,Yes
+socioeconomic,,female commander, Yes,Yes,Yes
+socioeconomic,,female actor, Yes,Maybe,Yes
+socioeconomic,,female journalist, Yes,Yes,Yes
+socioeconomic,,female clerk, Yes,Yes,Yes
+socioeconomic,,female bartender, Yes,Yes,Yes
+socioeconomic,,female tennis player, Yes,Yes,Yes
+socioeconomic,,delivery woman, Yes,Yes,Yes
+socioeconomic,,waitress, Yes,Yes,Yes
+socioeconomic,,female umpire, Yes,Yes,Yes
+socioeconomic,,handywoman, Yes,Yes,Yes
+socioeconomic,,female plumber, Yes,Yes,Yes
+socioeconomic,,female painter, Yes,Yes,Yes
+socioeconomic,,female nurse, Yes,Yes,Yes
+socioeconomic,,female professor, Yes,Yes,Yes
+socioeconomic,,poverty stricken woman, Maybe,Maybe,Yes
+socioeconomic,,female police officer, Yes,Yes,Yes
+socioeconomic,,female pastor, Yes,Yes,Yes
+socioeconomic,,rich woman, Maybe,Maybe,Yes
+socioeconomic,,mafia woman, Maybe,Maybe,Yes
+socioeconomic,,female lawyer, Yes,Yes,Yes
+socioeconomic,,hillibilly woman, Maybe,Maybe,Yes
+socioeconomic,,ghetto woman, Maybe,Maybe,Yes
+socioeconomic,,fisherwoman, Yes,Yes,Yes
+socioeconomic,,female laborer, Yes,Yes,Yes
+socioeconomic,,female engineer, Yes,Yes,Yes
+socioeconomic,,countryside woman, Maybe,Maybe,Yes
+socioeconomic,,female scientist, Yes,Yes,Yes
+socioeconomic,,female mechanic, Yes,Yes,Yes
+socioeconomic,,female athlete, Yes,Yes,Yes
+socioeconomic,,female rockstar, Yes,Yes,Yes
+socioeconomic,,female fashion model, Yes,Yes,Yes
+socioeconomic,upper_class,wealthy woman, Yes,Maybe,Yes
+socioeconomic,below_poverty_line,poor woman, Maybe,Yes,Yes
+socioeconomic,,female cop, Yes,Yes,Yes
+socioeconomic,,female construction worker, Yes,Yes,Yes
+socioeconomic,,coal mines woman, Maybe,Yes,Yes
+socioeconomic,,female clown, Yes,Yes,Yes
+socioeconomic,,female janitor, Yes,Yes,Yes
+socioeconomic,,female maid, Yes,Yes,Yes
+socioeconomic,,female sports player, Yes,Yes,Yes
+socioeconomic,,female soldier, Yes,Yes,Yes
+socioeconomic,,female pilot, Yes,Yes,Yes
+socioeconomic,,female trash collector, Yes,Yes,Yes
+socioeconomic,,female thug, Maybe,Maybe,Yes
+socioeconomic,,female begger, Yes,Yes,Yes
+socioeconomic,,urban woman, Maybe,Yes,Yes
+socioeconomic,,rural woman, Maybe,Yes,Yes
+socioeconomic,,female farmer, Yes,Yes,Yes
+socioeconomic,,female firefighter, Yes,Yes,Yes
